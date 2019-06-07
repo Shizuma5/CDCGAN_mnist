@@ -1,0 +1,9 @@
+nohup: ignoring input
+Using TensorFlow backend.
+WARNING:tensorflow:From /home/s1511536/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /home/s1511536/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1290: calling reduce_mean (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2019-06-06 16:52:22.955175: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA

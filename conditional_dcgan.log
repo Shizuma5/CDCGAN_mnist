@@ -1,0 +1,7000 @@
+discriminator loss: 0.494978070259
+generator loss: 1.00989
+
+discriminator loss: 0.316213905811
+generator loss: 1.37981
+
+discriminator loss: 0.236874997616
+generator loss: 0.850994
+
+discriminator loss: 0.175312489271
+generator loss: 0.995169
+
+discriminator loss: 0.160274118185
+generator loss: 0.628449
+
+discriminator loss: 0.208014905453
+generator loss: 0.529733
+
+discriminator loss: 0.180303946137
+generator loss: 0.524899
+
+discriminator loss: 0.160850435495
+generator loss: 0.46101
+
+discriminator loss: 0.151816248894
+generator loss: 0.591907
+
+discriminator loss: 0.143372803926
+generator loss: 0.572464
+
+discriminator loss: 0.118254214525
+generator loss: 0.758366
+
+discriminator loss: 0.100230939686
+generator loss: 0.768375
+
+discriminator loss: 0.112340308726
+generator loss: 0.936747
+
+discriminator loss: 0.0797452777624
+generator loss: 0.786235
+
+discriminator loss: 0.0986505970359
+generator loss: 0.888965
+
+discriminator loss: 0.0959305688739
+generator loss: 0.856377
+
+discriminator loss: 0.122417978942
+generator loss: 0.997267
+
+discriminator loss: 0.137359917164
+generator loss: 0.870825
+
+discriminator loss: 0.153279304504
+generator loss: 1.10444
+
+discriminator loss: 0.142823651433
+generator loss: 1.06814
+
+discriminator loss: 0.146249696612
+generator loss: 1.05988
+
+discriminator loss: 0.190472438931
+generator loss: 1.43404
+
+discriminator loss: 0.223625540733
+generator loss: 1.35755
+
+discriminator loss: 0.271994173527
+generator loss: 1.17997
+
+discriminator loss: 0.276965409517
+generator loss: 1.16634
+
+discriminator loss: 0.258723288774
+generator loss: 1.55395
+
+discriminator loss: 0.268909335136
+generator loss: 1.67467
+
+discriminator loss: 0.237861096859
+generator loss: 1.54219
+
+discriminator loss: 0.349162638187
+generator loss: 1.45613
+
+discriminator loss: 0.360461324453
+generator loss: 1.3227
+
+discriminator loss: 0.373057901859
+generator loss: 1.25585
+
+discriminator loss: 0.291504085064
+generator loss: 1.80585
+
+discriminator loss: 0.427344948053
+generator loss: 1.57801
+
+discriminator loss: 0.339948177338
+generator loss: 2.03505
+
+discriminator loss: 0.348352968693
+generator loss: 2.05553
+
+discriminator loss: 0.353598296642
+generator loss: 1.97539
+
+discriminator loss: 0.34374409914
+generator loss: 1.76645
+
+discriminator loss: 0.308292210102
+generator loss: 1.715
+
+discriminator loss: 0.411837220192
+generator loss: 1.69473
+
+discriminator loss: 0.397589862347
+generator loss: 2.00813
+
+discriminator loss: 0.301295101643
+generator loss: 1.9727
+
+discriminator loss: 0.292056798935
+generator loss: 1.765
+
+discriminator loss: 0.489275515079
+generator loss: 1.61981
+
+discriminator loss: 0.433464825153
+generator loss: 1.72046
+
+discriminator loss: 0.449823498726
+generator loss: 1.60911
+
+discriminator loss: 0.282171219587
+generator loss: 2.14476
+
+epoch0 end
+
+discriminator loss: 0.351741462946
+generator loss: 1.75795
+
+discriminator loss: 0.260195940733
+generator loss: 1.73917
+
+discriminator loss: 0.294105827808
+generator loss: 1.79843
+
+discriminator loss: 0.383842885494
+generator loss: 1.85876
+
+discriminator loss: 0.29429847002
+generator loss: 1.83779
+
+discriminator loss: 0.340011417866
+generator loss: 1.58527
+
+discriminator loss: 0.345002144575
+generator loss: 1.56241
+
+discriminator loss: 0.355293750763
+generator loss: 2.09638
+
+discriminator loss: 0.261766254902
+generator loss: 1.81641
+
+discriminator loss: 0.323931396008
+generator loss: 1.6076
+
+discriminator loss: 0.339698314667
+generator loss: 1.23324
+
+discriminator loss: 0.269324481487
+generator loss: 1.80683
+
+discriminator loss: 0.217829525471
+generator loss: 1.62168
+
+discriminator loss: 0.266267418861
+generator loss: 1.41933
+
+discriminator loss: 0.27432847023
+generator loss: 1.63677
+
+discriminator loss: 0.282366156578
+generator loss: 1.49489
+
+discriminator loss: 0.239543572068
+generator loss: 1.18856
+
+discriminator loss: 0.300621926785
+generator loss: 1.22304
+
+discriminator loss: 0.346259474754
+generator loss: 1.09044
+
+discriminator loss: 0.346419155598
+generator loss: 1.88773
+
+discriminator loss: 0.331453174353
+generator loss: 1.44249
+
+discriminator loss: 0.351874947548
+generator loss: 1.40632
+
+discriminator loss: 0.344304263592
+generator loss: 1.33927
+
+discriminator loss: 0.356281787157
+generator loss: 1.45062
+
+discriminator loss: 0.300202071667
+generator loss: 1.62348
+
+discriminator loss: 0.235603317618
+generator loss: 1.3889
+
+discriminator loss: 0.299639731646
+generator loss: 1.9431
+
+discriminator loss: 0.341576337814
+generator loss: 1.73305
+
+discriminator loss: 0.345025956631
+generator loss: 1.54284
+
+discriminator loss: 0.439538776875
+generator loss: 1.23016
+
+discriminator loss: 0.421943068504
+generator loss: 1.11697
+
+discriminator loss: 0.351998537779
+generator loss: 1.52816
+
+discriminator loss: 0.375759005547
+generator loss: 1.23894
+
+discriminator loss: 0.24516633153
+generator loss: 1.3524
+
+discriminator loss: 0.230286166072
+generator loss: 1.19898
+
+discriminator loss: 0.407517790794
+generator loss: 1.25098
+
+discriminator loss: 0.263895690441
+generator loss: 1.33678
+
+discriminator loss: 0.33652228117
+generator loss: 1.11184
+
+discriminator loss: 0.340107887983
+generator loss: 1.26902
+
+discriminator loss: 0.451702415943
+generator loss: 1.62579
+
+discriminator loss: 0.334211796522
+generator loss: 1.2573
+
+discriminator loss: 0.230192750692
+generator loss: 1.38784
+
+discriminator loss: 0.400690734386
+generator loss: 1.25848
+
+discriminator loss: 0.316750317812
+generator loss: 1.52678
+
+discriminator loss: 0.372134447098
+generator loss: 1.31314
+
+discriminator loss: 0.269314646721
+generator loss: 1.70742
+
+epoch1 end
+
+discriminator loss: 0.441020607948
+generator loss: 1.15658
+
+discriminator loss: 0.361109644175
+generator loss: 1.52143
+
+discriminator loss: 0.388774693012
+generator loss: 1.32399
+
+discriminator loss: 0.350057125092
+generator loss: 1.20596
+
+discriminator loss: 0.417289048433
+generator loss: 1.41908
+
+discriminator loss: 0.474561482668
+generator loss: 1.41187
+
+discriminator loss: 0.369547218084
+generator loss: 1.4048
+
+discriminator loss: 0.417224764824
+generator loss: 1.7011
+
+discriminator loss: 0.3811378479
+generator loss: 1.46207
+
+discriminator loss: 0.372970461845
+generator loss: 1.46588
+
+discriminator loss: 0.491730362177
+generator loss: 1.27733
+
+discriminator loss: 0.327430039644
+generator loss: 1.66303
+
+discriminator loss: 0.293028503656
+generator loss: 1.33644
+
+discriminator loss: 0.42016351223
+generator loss: 1.01385
+
+discriminator loss: 0.357650607824
+generator loss: 1.46018
+
+discriminator loss: 0.294106066227
+generator loss: 1.64989
+
+discriminator loss: 0.434266775846
+generator loss: 1.43368
+
+discriminator loss: 0.452005267143
+generator loss: 1.35973
+
+discriminator loss: 0.363432556391
+generator loss: 1.24187
+
+discriminator loss: 0.349233269691
+generator loss: 1.09307
+
+discriminator loss: 0.444797664881
+generator loss: 1.63311
+
+discriminator loss: 0.354222714901
+generator loss: 1.25121
+
+discriminator loss: 0.298667490482
+generator loss: 1.41848
+
+discriminator loss: 0.390533447266
+generator loss: 1.61188
+
+discriminator loss: 0.389982014894
+generator loss: 1.60344
+
+discriminator loss: 0.286741316319
+generator loss: 1.27181
+
+discriminator loss: 0.335660457611
+generator loss: 1.48233
+
+discriminator loss: 0.276053071022
+generator loss: 1.48014
+
+discriminator loss: 0.585833132267
+generator loss: 1.39672
+
+discriminator loss: 0.4581848979
+generator loss: 1.54392
+
+discriminator loss: 0.488092780113
+generator loss: 1.11716
+
+discriminator loss: 0.231457382441
+generator loss: 1.90549
+
+discriminator loss: 0.442239224911
+generator loss: 1.42316
+
+discriminator loss: 0.245546534657
+generator loss: 1.8672
+
+discriminator loss: 0.299684375525
+generator loss: 1.85897
+
+discriminator loss: 0.26325032115
+generator loss: 1.52772
+
+discriminator loss: 0.363384157419
+generator loss: 1.2695
+
+discriminator loss: 0.350894987583
+generator loss: 1.46838
+
+discriminator loss: 0.382272720337
+generator loss: 1.78222
+
+discriminator loss: 0.229232370853
+generator loss: 1.8389
+
+discriminator loss: 0.36619591713
+generator loss: 1.7777
+
+discriminator loss: 0.281022340059
+generator loss: 2.265
+
+discriminator loss: 0.489993751049
+generator loss: 2.05187
+
+discriminator loss: 0.335794329643
+generator loss: 1.78999
+
+discriminator loss: 0.374336838722
+generator loss: 1.83354
+
+discriminator loss: 0.256315529346
+generator loss: 2.23069
+
+epoch2 end
+
+discriminator loss: 0.434122115374
+generator loss: 0.837825
+
+discriminator loss: 0.207947909832
+generator loss: 1.76202
+
+discriminator loss: 0.414858371019
+generator loss: 1.80249
+
+discriminator loss: 0.387677431107
+generator loss: 2.43269
+
+discriminator loss: 0.707650363445
+generator loss: 1.24108
+
+discriminator loss: 0.37101238966
+generator loss: 1.98874
+
+discriminator loss: 0.350338429213
+generator loss: 2.645
+
+discriminator loss: 0.332070529461
+generator loss: 1.61604
+
+discriminator loss: 0.303819537163
+generator loss: 2.19721
+
+discriminator loss: 0.307322591543
+generator loss: 1.94641
+
+discriminator loss: 0.459168404341
+generator loss: 1.77724
+
+discriminator loss: 0.201382994652
+generator loss: 2.23177
+
+discriminator loss: 0.196380585432
+generator loss: 2.16906
+
+discriminator loss: 0.427466958761
+generator loss: 1.81297
+
+discriminator loss: 0.168784707785
+generator loss: 2.27701
+
+discriminator loss: 0.362564474344
+generator loss: 2.25264
+
+discriminator loss: 0.236476421356
+generator loss: 2.3761
+
+discriminator loss: 0.476975381374
+generator loss: 2.117
+
+discriminator loss: 0.284828186035
+generator loss: 1.7626
+
+discriminator loss: 0.463754594326
+generator loss: 1.73872
+
+discriminator loss: 0.392498373985
+generator loss: 1.96021
+
+discriminator loss: 0.596518754959
+generator loss: 0.917667
+
+discriminator loss: 0.379891991615
+generator loss: 1.408
+
+discriminator loss: 0.310106545687
+generator loss: 2.29913
+
+discriminator loss: 0.331199467182
+generator loss: 1.53077
+
+discriminator loss: 0.450047701597
+generator loss: 2.41102
+
+discriminator loss: 0.196489483118
+generator loss: 1.53623
+
+discriminator loss: 0.27858710289
+generator loss: 2.54427
+
+discriminator loss: 0.449354320765
+generator loss: 1.57929
+
+discriminator loss: 0.261284351349
+generator loss: 1.69089
+
+discriminator loss: 0.551855921745
+generator loss: 1.51981
+
+discriminator loss: 0.224332243204
+generator loss: 1.94828
+
+discriminator loss: 0.496338069439
+generator loss: 3.2166
+
+discriminator loss: 0.343349456787
+generator loss: 2.03657
+
+discriminator loss: 0.409338653088
+generator loss: 1.43985
+
+discriminator loss: 0.4722622931
+generator loss: 2.25566
+
+discriminator loss: 0.298678815365
+generator loss: 1.61812
+
+discriminator loss: 0.619024455547
+generator loss: 1.81161
+
+discriminator loss: 0.326236009598
+generator loss: 1.58512
+
+discriminator loss: 0.312785923481
+generator loss: 1.80005
+
+discriminator loss: 0.343717753887
+generator loss: 1.36914
+
+discriminator loss: 0.185288950801
+generator loss: 2.47619
+
+discriminator loss: 0.283381462097
+generator loss: 2.74946
+
+discriminator loss: 0.244840592146
+generator loss: 1.62549
+
+discriminator loss: 0.304328978062
+generator loss: 1.90342
+
+discriminator loss: 0.359213292599
+generator loss: 2.53663
+
+epoch3 end
+
+discriminator loss: 0.639930009842
+generator loss: 1.30866
+
+discriminator loss: 0.369273871183
+generator loss: 2.06482
+
+discriminator loss: 0.486493289471
+generator loss: 1.96259
+
+discriminator loss: 0.371737957001
+generator loss: 1.59722
+
+discriminator loss: 0.396065324545
+generator loss: 1.56213
+
+discriminator loss: 0.311057895422
+generator loss: 3.19464
+
+discriminator loss: 0.375305056572
+generator loss: 2.23658
+
+discriminator loss: 0.280859261751
+generator loss: 1.77708
+
+discriminator loss: 0.313855946064
+generator loss: 2.19768
+
+discriminator loss: 0.614996433258
+generator loss: 1.57156
+
+discriminator loss: 0.461661756039
+generator loss: 0.8212
+
+discriminator loss: 0.319638550282
+generator loss: 1.83328
+
+discriminator loss: 0.268464505672
+generator loss: 1.85018
+
+discriminator loss: 0.511618971825
+generator loss: 1.28858
+
+discriminator loss: 0.370774775743
+generator loss: 2.99898
+
+discriminator loss: 0.392755329609
+generator loss: 1.73899
+
+discriminator loss: 0.315540790558
+generator loss: 2.40818
+
+discriminator loss: 0.383066296577
+generator loss: 2.28543
+
+discriminator loss: 0.398891210556
+generator loss: 1.54297
+
+discriminator loss: 0.487371712923
+generator loss: 2.13267
+
+discriminator loss: 0.359717518091
+generator loss: 1.59708
+
+discriminator loss: 0.37077203393
+generator loss: 1.16814
+
+discriminator loss: 0.812254071236
+generator loss: 1.69352
+
+discriminator loss: 0.313688993454
+generator loss: 2.46761
+
+discriminator loss: 0.44396173954
+generator loss: 1.73099
+
+discriminator loss: 0.373774379492
+generator loss: 2.33153
+
+discriminator loss: 0.928757429123
+generator loss: 1.33478
+
+discriminator loss: 0.356144011021
+generator loss: 1.45333
+
+discriminator loss: 0.626574754715
+generator loss: 1.30055
+
+discriminator loss: 0.491267263889
+generator loss: 1.39596
+
+discriminator loss: 0.386315703392
+generator loss: 2.10852
+
+discriminator loss: 0.513851940632
+generator loss: 1.69046
+
+discriminator loss: 0.48128682375
+generator loss: 2.83575
+
+discriminator loss: 0.36470746994
+generator loss: 2.4141
+
+discriminator loss: 0.394017070532
+generator loss: 1.34591
+
+discriminator loss: 0.553230524063
+generator loss: 1.81607
+
+discriminator loss: 0.506578028202
+generator loss: 1.56
+
+discriminator loss: 0.915847301483
+generator loss: 1.14364
+
+discriminator loss: 0.253438144922
+generator loss: 2.00003
+
+discriminator loss: 0.45554047823
+generator loss: 2.00829
+
+discriminator loss: 0.387373924255
+generator loss: 2.23211
+
+discriminator loss: 0.22963963449
+generator loss: 2.83639
+
+discriminator loss: 0.482582569122
+generator loss: 1.99512
+
+discriminator loss: 0.313243806362
+generator loss: 1.24141
+
+discriminator loss: 0.316755175591
+generator loss: 1.56591
+
+discriminator loss: 0.297111868858
+generator loss: 2.21867
+
+epoch4 end
+
+discriminator loss: 0.805379748344
+generator loss: 1.03837
+
+discriminator loss: 0.259020358324
+generator loss: 2.38527
+
+discriminator loss: 0.551106214523
+generator loss: 1.67098
+
+discriminator loss: 0.528125882149
+generator loss: 1.15892
+
+discriminator loss: 0.282603025436
+generator loss: 2.31489
+
+discriminator loss: 0.443354785442
+generator loss: 1.71495
+
+discriminator loss: 0.502760946751
+generator loss: 1.5367
+
+discriminator loss: 0.24367493391
+generator loss: 2.39953
+
+discriminator loss: 0.27361369133
+generator loss: 1.99779
+
+discriminator loss: 0.300556659698
+generator loss: 1.87792
+
+discriminator loss: 0.668369352818
+generator loss: 1.05968
+
+discriminator loss: 0.217425018549
+generator loss: 2.23447
+
+discriminator loss: 0.648265600204
+generator loss: 1.95086
+
+discriminator loss: 0.414106339216
+generator loss: 1.66528
+
+discriminator loss: 0.402730464935
+generator loss: 2.39963
+
+discriminator loss: 0.462538599968
+generator loss: 1.54553
+
+discriminator loss: 0.363505572081
+generator loss: 2.25311
+
+discriminator loss: 0.578132748604
+generator loss: 1.22171
+
+discriminator loss: 0.717755794525
+generator loss: 1.32593
+
+discriminator loss: 0.836982607841
+generator loss: 1.24097
+
+discriminator loss: 0.52158176899
+generator loss: 1.56806
+
+discriminator loss: 0.490803956985
+generator loss: 2.18579
+
+discriminator loss: 0.449333250523
+generator loss: 1.80305
+
+discriminator loss: 0.14876100421
+generator loss: 2.26852
+
+discriminator loss: 0.56294131279
+generator loss: 1.32646
+
+discriminator loss: 0.460376858711
+generator loss: 3.27248
+
+discriminator loss: 0.357077896595
+generator loss: 2.00449
+
+discriminator loss: 0.846209347248
+generator loss: 1.23565
+
+discriminator loss: 0.496821165085
+generator loss: 2.02244
+
+discriminator loss: 0.317510217428
+generator loss: 2.76077
+
+discriminator loss: 0.48955065012
+generator loss: 1.5117
+
+discriminator loss: 0.522366046906
+generator loss: 0.879177
+
+discriminator loss: 0.372539877892
+generator loss: 2.82395
+
+discriminator loss: 0.254256725311
+generator loss: 1.68099
+
+discriminator loss: 0.354324758053
+generator loss: 2.23922
+
+discriminator loss: 0.357873499393
+generator loss: 1.83142
+
+discriminator loss: 0.481313705444
+generator loss: 2.78806
+
+discriminator loss: 0.261742293835
+generator loss: 2.5569
+
+discriminator loss: 0.584602355957
+generator loss: 1.10525
+
+discriminator loss: 0.235713377595
+generator loss: 2.17264
+
+discriminator loss: 0.266542077065
+generator loss: 1.33001
+
+discriminator loss: 0.246695563197
+generator loss: 3.10783
+
+discriminator loss: 0.219229310751
+generator loss: 2.92667
+
+discriminator loss: 0.201145470142
+generator loss: 2.77405
+
+discriminator loss: 0.299258828163
+generator loss: 2.37859
+
+discriminator loss: 0.127901107073
+generator loss: 4.12714
+
+epoch5 end
+
+discriminator loss: 0.494861513376
+generator loss: 0.979101
+
+discriminator loss: 0.172106415033
+generator loss: 2.60271
+
+discriminator loss: 0.165028661489
+generator loss: 1.53862
+
+discriminator loss: 0.419342130423
+generator loss: 1.71497
+
+discriminator loss: 0.357854664326
+generator loss: 1.98099
+
+discriminator loss: 0.121805638075
+generator loss: 3.83647
+
+discriminator loss: 0.49582234025
+generator loss: 0.767535
+
+discriminator loss: 0.700956344604
+generator loss: 2.55157
+
+discriminator loss: 0.173289224505
+generator loss: 2.6402
+
+discriminator loss: 0.186065837741
+generator loss: 2.72728
+
+discriminator loss: 0.347528964281
+generator loss: 1.78451
+
+discriminator loss: 0.114048391581
+generator loss: 2.5143
+
+discriminator loss: 0.395713329315
+generator loss: 3.33793
+
+discriminator loss: 0.237933501601
+generator loss: 2.58169
+
+discriminator loss: 0.0834722816944
+generator loss: 3.64333
+
+discriminator loss: 0.391448944807
+generator loss: 2.49618
+
+discriminator loss: 0.0204173140228
+generator loss: 4.57316
+
+discriminator loss: 0.499326944351
+generator loss: 1.27476
+
+discriminator loss: 0.368389576674
+generator loss: 1.85212
+
+discriminator loss: 0.446868956089
+generator loss: 2.04405
+
+discriminator loss: 0.588945388794
+generator loss: 0.939557
+
+discriminator loss: 0.347334504128
+generator loss: 1.84706
+
+discriminator loss: 0.526908874512
+generator loss: 0.628237
+
+discriminator loss: 0.140977978706
+generator loss: 2.97967
+
+discriminator loss: 0.17112082243
+generator loss: 1.91696
+
+discriminator loss: 0.34908798337
+generator loss: 3.66911
+
+discriminator loss: 0.280938178301
+generator loss: 3.88449
+
+discriminator loss: 0.171558529139
+generator loss: 2.64242
+
+discriminator loss: 0.17756190896
+generator loss: 2.34541
+
+discriminator loss: 0.391155004501
+generator loss: 4.43906
+
+discriminator loss: 0.352308601141
+generator loss: 1.29205
+
+discriminator loss: 0.126039355993
+generator loss: 1.87028
+
+discriminator loss: 0.109145246446
+generator loss: 2.8633
+
+discriminator loss: 0.0437291413546
+generator loss: 4.97503
+
+discriminator loss: 0.0643983483315
+generator loss: 4.3938
+
+discriminator loss: 0.289484918118
+generator loss: 1.43548
+
+discriminator loss: 0.157149463892
+generator loss: 3.93731
+
+discriminator loss: 0.0413625836372
+generator loss: 3.38863
+
+discriminator loss: 0.045212239027
+generator loss: 4.5047
+
+discriminator loss: 0.0915786102414
+generator loss: 4.69397
+
+discriminator loss: 0.0317475497723
+generator loss: 3.43276
+
+discriminator loss: -0.00349653512239
+generator loss: 8.23584
+
+discriminator loss: 0.0168477185071
+generator loss: 6.92915
+
+discriminator loss: 0.26785993576
+generator loss: 1.70607
+
+discriminator loss: 0.00625429302454
+generator loss: 4.23599
+
+discriminator loss: 0.141599997878
+generator loss: 1.703
+
+epoch6 end
+
+discriminator loss: 0.43700581789
+generator loss: 0.809404
+
+discriminator loss: 0.177856072783
+generator loss: 3.19742
+
+discriminator loss: 0.074520342052
+generator loss: 2.71578
+
+discriminator loss: 0.198676720262
+generator loss: 3.42432
+
+discriminator loss: 0.0673441961408
+generator loss: 4.68754
+
+discriminator loss: 0.0690132156014
+generator loss: 4.47673
+
+discriminator loss: 0.470947444439
+generator loss: 1.39326
+
+discriminator loss: 0.358990728855
+generator loss: 2.20718
+
+discriminator loss: 0.209653571248
+generator loss: 1.49679
+
+discriminator loss: 0.122201412916
+generator loss: 2.61979
+
+discriminator loss: 0.763451337814
+generator loss: 0.41361
+
+discriminator loss: 0.221202805638
+generator loss: 2.46046
+
+discriminator loss: 0.152817934752
+generator loss: 3.83845
+
+discriminator loss: 0.141465544701
+generator loss: 4.15209
+
+discriminator loss: 0.00385110080242
+generator loss: 5.2406
+
+discriminator loss: 0.236506402493
+generator loss: 3.59109
+
+discriminator loss: 0.141876071692
+generator loss: 5.01043
+
+discriminator loss: 0.168209508061
+generator loss: 2.47099
+
+discriminator loss: 0.294090270996
+generator loss: 2.27657
+
+discriminator loss: 0.47081631422
+generator loss: 3.72089
+
+discriminator loss: 0.100153565407
+generator loss: 5.00964
+
+discriminator loss: 0.048598356545
+generator loss: 3.9918
+
+discriminator loss: 0.0617009215057
+generator loss: 2.91106
+
+discriminator loss: -0.0353062450886
+generator loss: 7.28219
+
+discriminator loss: 0.0346852242947
+generator loss: 5.6274
+
+discriminator loss: 0.459000378847
+generator loss: 4.49111
+
+discriminator loss: 0.610858917236
+generator loss: 5.92838
+
+discriminator loss: 0.241804048419
+generator loss: 1.09137
+
+discriminator loss: 0.117638364434
+generator loss: 3.43127
+
+discriminator loss: 0.0948978438973
+generator loss: 5.31346
+
+discriminator loss: 0.0654518678784
+generator loss: 4.05684
+
+discriminator loss: 0.137022688985
+generator loss: 5.22216
+
+discriminator loss: 0.0633560419083
+generator loss: 5.3684
+
+discriminator loss: 0.00718589872122
+generator loss: 5.70388
+
+discriminator loss: -0.0154284015298
+generator loss: 7.48898
+
+discriminator loss: 0.45112785697
+generator loss: 0.232912
+
+discriminator loss: 0.0287212356925
+generator loss: 5.27631
+
+discriminator loss: 0.0493162386119
+generator loss: 4.42408
+
+discriminator loss: 0.0167903229594
+generator loss: 5.00298
+
+discriminator loss: 1.61099421978
+generator loss: 2.83818
+
+discriminator loss: 0.607785403728
+generator loss: 2.4427
+
+discriminator loss: 0.261583000422
+generator loss: 1.67141
+
+discriminator loss: 0.311219483614
+generator loss: 3.00034
+
+discriminator loss: 0.205344706774
+generator loss: 3.36187
+
+discriminator loss: 0.592117786407
+generator loss: 1.12164
+
+discriminator loss: 0.251724332571
+generator loss: 3.44664
+
+epoch7 end
+
+discriminator loss: 0.348988950253
+generator loss: 1.59713
+
+discriminator loss: 0.146735176444
+generator loss: 2.43905
+
+discriminator loss: 0.328125119209
+generator loss: 2.08963
+
+discriminator loss: 0.0728902518749
+generator loss: 4.04416
+
+discriminator loss: 0.217733040452
+generator loss: 1.66367
+
+discriminator loss: 0.172827541828
+generator loss: 3.13294
+
+discriminator loss: 0.105865463614
+generator loss: 3.41652
+
+discriminator loss: 0.12545402348
+generator loss: 2.41748
+
+discriminator loss: 0.184269577265
+generator loss: 3.7631
+
+discriminator loss: 0.0782168060541
+generator loss: 3.19971
+
+discriminator loss: 0.13481143117
+generator loss: 3.10544
+
+discriminator loss: 0.0512119531631
+generator loss: 6.19113
+
+discriminator loss: 0.169918358326
+generator loss: 3.03162
+
+discriminator loss: 0.51900023222
+generator loss: 1.351
+
+discriminator loss: 0.150758847594
+generator loss: 2.88245
+
+discriminator loss: 0.270885854959
+generator loss: 2.99341
+
+discriminator loss: 0.0973907262087
+generator loss: 2.92115
+
+discriminator loss: 0.223741441965
+generator loss: 2.03814
+
+discriminator loss: 0.25876301527
+generator loss: 3.57244
+
+discriminator loss: 1.14228725433
+generator loss: 2.74024
+
+discriminator loss: 0.243962943554
+generator loss: 4.52803
+
+discriminator loss: 0.450494885445
+generator loss: 2.84457
+
+discriminator loss: 0.177953511477
+generator loss: 2.60912
+
+discriminator loss: 0.00703756511211
+generator loss: 5.17475
+
+discriminator loss: 0.0211002677679
+generator loss: 6.63666
+
+discriminator loss: 0.292780458927
+generator loss: 5.88402
+
+discriminator loss: -0.0441275835037
+generator loss: 12.0131
+
+discriminator loss: -0.00110635906458
+generator loss: 6.99859
+
+discriminator loss: 0.0266696661711
+generator loss: 7.88719
+
+discriminator loss: 0.456704646349
+generator loss: 7.73801
+
+discriminator loss: 0.0679238438606
+generator loss: 3.7618
+
+discriminator loss: 0.0882011055946
+generator loss: 5.0134
+
+discriminator loss: 0.00989566743374
+generator loss: 4.80535
+
+discriminator loss: 0.0506388247013
+generator loss: 8.27327
+
+discriminator loss: 0.0661492720246
+generator loss: 4.09978
+
+discriminator loss: 0.501537919044
+generator loss: 0.0432357
+
+discriminator loss: 0.698963463306
+generator loss: 0.869295
+
+discriminator loss: 0.555904507637
+generator loss: 1.23102
+
+discriminator loss: 0.495059728622
+generator loss: 1.84262
+
+discriminator loss: 0.536184668541
+generator loss: 2.65956
+
+discriminator loss: 0.332227349281
+generator loss: 2.87045
+
+discriminator loss: 0.123519055545
+generator loss: 3.46453
+
+discriminator loss: 0.185045599937
+generator loss: 2.83818
+
+discriminator loss: 0.20948317647
+generator loss: 3.8065
+
+discriminator loss: 0.334891289473
+generator loss: 1.13396
+
+discriminator loss: 0.173518568277
+generator loss: 4.34513
+
+epoch8 end
+
+discriminator loss: 0.434252977371
+generator loss: 0.599032
+
+discriminator loss: 0.406006395817
+generator loss: 3.3792
+
+discriminator loss: 0.208428174257
+generator loss: 3.11607
+
+discriminator loss: 0.0624853521585
+generator loss: 4.5787
+
+discriminator loss: 0.0961447432637
+generator loss: 3.31374
+
+discriminator loss: 0.209452927113
+generator loss: 2.63773
+
+discriminator loss: 0.273653745651
+generator loss: 3.43535
+
+discriminator loss: 0.538281083107
+generator loss: 1.71495
+
+discriminator loss: 0.46407532692
+generator loss: 1.95834
+
+discriminator loss: 0.284826874733
+generator loss: 3.09374
+
+discriminator loss: 0.257396399975
+generator loss: 2.02662
+
+discriminator loss: 0.0896685570478
+generator loss: 4.00512
+
+discriminator loss: 0.0978084281087
+generator loss: 2.85365
+
+discriminator loss: 0.16038236022
+generator loss: 3.48012
+
+discriminator loss: 0.0400384441018
+generator loss: 2.99053
+
+discriminator loss: 0.189664721489
+generator loss: 3.92685
+
+discriminator loss: 0.0207553952932
+generator loss: 6.23995
+
+discriminator loss: 0.381785660982
+generator loss: 1.89372
+
+discriminator loss: 0.553015828133
+generator loss: 3.36718
+
+discriminator loss: 1.43981349468
+generator loss: 3.68063
+
+discriminator loss: 0.143687307835
+generator loss: 3.21722
+
+discriminator loss: 0.285811126232
+generator loss: 2.49413
+
+discriminator loss: 0.789260149002
+generator loss: 0.230911
+
+discriminator loss: 0.280047297478
+generator loss: 3.14989
+
+discriminator loss: 0.311504840851
+generator loss: 1.42749
+
+discriminator loss: 0.0946956351399
+generator loss: 2.4727
+
+discriminator loss: 0.0272086821496
+generator loss: 4.46732
+
+discriminator loss: 0.207851499319
+generator loss: 3.19783
+
+discriminator loss: 0.189350605011
+generator loss: 2.29449
+
+discriminator loss: 1.2465929985
+generator loss: 4.90517
+
+discriminator loss: 0.54654353857
+generator loss: 1.41132
+
+discriminator loss: 0.169776082039
+generator loss: 2.45068
+
+discriminator loss: 0.284922987223
+generator loss: 3.64591
+
+discriminator loss: 0.0239007845521
+generator loss: 4.13956
+
+discriminator loss: 0.1218784675
+generator loss: 3.93199
+
+discriminator loss: 0.396095961332
+generator loss: 1.16871
+
+discriminator loss: 0.0478346608579
+generator loss: 3.87452
+
+discriminator loss: 0.349930465221
+generator loss: 5.98982
+
+discriminator loss: 0.1017107144
+generator loss: 3.74352
+
+discriminator loss: 0.0673837512732
+generator loss: 6.05289
+
+discriminator loss: 0.165627509356
+generator loss: 1.56055
+
+discriminator loss: 0.182525247335
+generator loss: 6.82302
+
+discriminator loss: 0.149812236428
+generator loss: 2.78852
+
+discriminator loss: 0.168989390135
+generator loss: 3.0612
+
+discriminator loss: 0.154669642448
+generator loss: 4.85673
+
+discriminator loss: 0.373177468777
+generator loss: 2.69763
+
+epoch9 end
+
+discriminator loss: 0.425286769867
+generator loss: 1.63478
+
+discriminator loss: 0.616226911545
+generator loss: 1.89475
+
+discriminator loss: 0.20337677002
+generator loss: 1.45887
+
+discriminator loss: 0.582155942917
+generator loss: 2.94178
+
+discriminator loss: 0.662907123566
+generator loss: 2.91115
+
+discriminator loss: 0.190151378512
+generator loss: 4.94558
+
+discriminator loss: 0.200310096145
+generator loss: 4.34965
+
+discriminator loss: 0.169784367085
+generator loss: 2.4596
+
+discriminator loss: 0.135309427977
+generator loss: 2.82209
+
+discriminator loss: 0.146262943745
+generator loss: 2.84419
+
+discriminator loss: 0.249013036489
+generator loss: 3.01275
+
+discriminator loss: 0.0448123887181
+generator loss: 2.83076
+
+discriminator loss: 0.146894648671
+generator loss: 4.91335
+
+discriminator loss: 0.24598428607
+generator loss: 4.51269
+
+discriminator loss: 0.0797043815255
+generator loss: 5.46899
+
+discriminator loss: 0.080229498446
+generator loss: 4.49713
+
+discriminator loss: 0.0783370435238
+generator loss: 5.57099
+
+discriminator loss: 0.0940470770001
+generator loss: 2.47771
+
+discriminator loss: 0.524789273739
+generator loss: 1.44837
+
+discriminator loss: 1.56722688675
+generator loss: 1.62862
+
+discriminator loss: 0.0343577973545
+generator loss: 1.71676
+
+discriminator loss: 0.0633769482374
+generator loss: 1.24722
+
+discriminator loss: 0.199516072869
+generator loss: 0.962354
+
+discriminator loss: 0.114530578256
+generator loss: 3.82205
+
+discriminator loss: 0.25600373745
+generator loss: 3.14734
+
+discriminator loss: 2.37316870689
+generator loss: 0.964186
+
+discriminator loss: 0.316025048494
+generator loss: 0.871838
+
+discriminator loss: 0.953228652477
+generator loss: 2.43848
+
+discriminator loss: 0.341889441013
+generator loss: 1.83941
+
+discriminator loss: 0.260468065739
+generator loss: 3.72862
+
+discriminator loss: 0.144298285246
+generator loss: 3.93797
+
+discriminator loss: 0.0801481455564
+generator loss: 5.2167
+
+discriminator loss: 0.311537623405
+generator loss: 2.57344
+
+discriminator loss: 0.053683552891
+generator loss: 4.39057
+
+discriminator loss: 0.423079311848
+generator loss: 5.07604
+
+discriminator loss: 0.826009750366
+generator loss: 0.39829
+
+discriminator loss: 0.178591758013
+generator loss: 3.78491
+
+discriminator loss: 0.302258372307
+generator loss: 4.89434
+
+discriminator loss: 0.0777961686254
+generator loss: 4.76877
+
+discriminator loss: 0.856501758099
+generator loss: 3.08677
+
+discriminator loss: 0.331215620041
+generator loss: 1.94478
+
+discriminator loss: 0.189033120871
+generator loss: 3.78399
+
+discriminator loss: 0.462183624506
+generator loss: 3.65264
+
+discriminator loss: 0.125834107399
+generator loss: 3.47543
+
+discriminator loss: 0.319329500198
+generator loss: 4.84554
+
+discriminator loss: 0.103308528662
+generator loss: 7.06336
+
+epoch10 end
+
+discriminator loss: 0.264911472797
+generator loss: 0.482929
+
+discriminator loss: 0.0428624600172
+generator loss: 4.71426
+
+discriminator loss: 0.0982249677181
+generator loss: 2.73714
+
+discriminator loss: 0.158166080713
+generator loss: 6.00753
+
+discriminator loss: 0.266816169024
+generator loss: 3.44875
+
+discriminator loss: 0.141144752502
+generator loss: 5.2504
+
+discriminator loss: 0.130722850561
+generator loss: 4.54973
+
+discriminator loss: 0.181395754218
+generator loss: 2.36726
+
+discriminator loss: 0.677624344826
+generator loss: 1.60604
+
+discriminator loss: 0.384487181902
+generator loss: 2.79158
+
+discriminator loss: 0.562253117561
+generator loss: 3.38332
+
+discriminator loss: 0.0861133337021
+generator loss: 2.99096
+
+discriminator loss: 0.285795122385
+generator loss: 4.38911
+
+discriminator loss: 0.0635046362877
+generator loss: 3.41877
+
+discriminator loss: -0.00555692613125
+generator loss: 8.12442
+
+discriminator loss: 0.100211240351
+generator loss: 2.56143
+
+discriminator loss: 0.0443995445967
+generator loss: 3.99093
+
+discriminator loss: 0.0924337208271
+generator loss: 4.15212
+
+discriminator loss: 0.00804512947798
+generator loss: 7.08747
+
+discriminator loss: 0.0608321577311
+generator loss: 4.62076
+
+discriminator loss: 0.0795726627111
+generator loss: 1.91987
+
+discriminator loss: 1.01474285126
+generator loss: 4.67544
+
+discriminator loss: 0.476563662291
+generator loss: 1.70338
+
+discriminator loss: 0.118823207915
+generator loss: 2.29157
+
+discriminator loss: 0.0917938947678
+generator loss: 1.0627
+
+discriminator loss: 0.177465826273
+generator loss: 2.26261
+
+discriminator loss: 0.601495623589
+generator loss: 3.05762
+
+discriminator loss: 0.20731908083
+generator loss: 3.2592
+
+discriminator loss: 0.167699694633
+generator loss: 4.18502
+
+discriminator loss: 0.158176168799
+generator loss: 5.80571
+
+discriminator loss: 0.178495824337
+generator loss: 3.00142
+
+discriminator loss: 0.0834829285741
+generator loss: 4.65726
+
+discriminator loss: 0.0304497927427
+generator loss: 2.97573
+
+discriminator loss: 0.0294311381876
+generator loss: 5.13547
+
+discriminator loss: 0.0275328606367
+generator loss: 2.15808
+
+discriminator loss: 0.342018425465
+generator loss: 1.00715
+
+discriminator loss: 0.299417644739
+generator loss: 2.36609
+
+discriminator loss: 0.402205646038
+generator loss: 2.3043
+
+discriminator loss: 0.367359578609
+generator loss: 2.33763
+
+discriminator loss: 0.592177152634
+generator loss: 3.22664
+
+discriminator loss: 0.298584699631
+generator loss: 2.48893
+
+discriminator loss: 0.105535633862
+generator loss: 3.24497
+
+discriminator loss: 0.326269567013
+generator loss: 3.95537
+
+discriminator loss: 0.300808727741
+generator loss: 3.37938
+
+discriminator loss: 0.242217153311
+generator loss: 2.44325
+
+discriminator loss: 0.130877375603
+generator loss: 3.92509
+
+epoch11 end
+
+discriminator loss: 0.350805610418
+generator loss: 1.98289
+
+discriminator loss: 0.31018525362
+generator loss: 3.4128
+
+discriminator loss: 0.228237971663
+generator loss: 1.59905
+
+discriminator loss: 0.221200704575
+generator loss: 3.74574
+
+discriminator loss: 0.484562575817
+generator loss: 2.30351
+
+discriminator loss: 0.394430696964
+generator loss: 3.88136
+
+discriminator loss: 0.428611040115
+generator loss: 2.11442
+
+discriminator loss: 0.0909816995263
+generator loss: 3.56827
+
+discriminator loss: 0.213940352201
+generator loss: 5.04082
+
+discriminator loss: 0.192295819521
+generator loss: 3.19056
+
+discriminator loss: 0.484292477369
+generator loss: 2.24845
+
+discriminator loss: 0.0818002447486
+generator loss: 5.13274
+
+discriminator loss: 0.0793842747808
+generator loss: 3.99643
+
+discriminator loss: 0.0672648996115
+generator loss: 5.95625
+
+discriminator loss: 0.0666174888611
+generator loss: 6.121
+
+discriminator loss: 0.174380689859
+generator loss: 4.04051
+
+discriminator loss: 0.0360812433064
+generator loss: 5.82579
+
+discriminator loss: 0.328441768885
+generator loss: 2.92636
+
+discriminator loss: 0.260530263186
+generator loss: 3.19731
+
+discriminator loss: 0.285619616508
+generator loss: 2.57855
+
+discriminator loss: 0.742564916611
+generator loss: 3.08223
+
+discriminator loss: 0.101589664817
+generator loss: 5.29227
+
+discriminator loss: 0.125932633877
+generator loss: 3.49246
+
+discriminator loss: 0.105846375227
+generator loss: 5.0151
+
+discriminator loss: 0.113416478038
+generator loss: 5.17357
+
+discriminator loss: 0.314134180546
+generator loss: 3.671
+
+discriminator loss: 0.155670166016
+generator loss: 4.35312
+
+discriminator loss: 0.423777699471
+generator loss: 2.70479
+
+discriminator loss: 0.070699006319
+generator loss: 3.00297
+
+discriminator loss: 0.330283612013
+generator loss: 4.91095
+
+discriminator loss: 0.42401137948
+generator loss: 1.43075
+
+discriminator loss: 0.0149703621864
+generator loss: 5.6711
+
+discriminator loss: 0.240848585963
+generator loss: 7.19801
+
+discriminator loss: 0.49627789855
+generator loss: 1.47611
+
+discriminator loss: 0.714867055416
+generator loss: 2.92043
+
+discriminator loss: 0.268998265266
+generator loss: 2.14049
+
+discriminator loss: 0.578698933125
+generator loss: 1.98087
+
+discriminator loss: 0.39239642024
+generator loss: 2.97949
+
+discriminator loss: 0.555641055107
+generator loss: 1.64495
+
+discriminator loss: 0.434200942516
+generator loss: 2.66913
+
+discriminator loss: 0.339076131582
+generator loss: 2.82288
+
+discriminator loss: 0.113122850657
+generator loss: 3.75059
+
+discriminator loss: 0.370037078857
+generator loss: 1.65529
+
+discriminator loss: 0.191258534789
+generator loss: 1.35234
+
+discriminator loss: 0.157337754965
+generator loss: 1.92442
+
+discriminator loss: 0.213405400515
+generator loss: 3.81754
+
+epoch12 end
+
+discriminator loss: 0.413044959307
+generator loss: 2.1843
+
+discriminator loss: 0.106915839016
+generator loss: 2.94663
+
+discriminator loss: 0.371476769447
+generator loss: 2.13852
+
+discriminator loss: 0.107205249369
+generator loss: 3.33408
+
+discriminator loss: 0.215176284313
+generator loss: 1.87889
+
+discriminator loss: 0.135244295001
+generator loss: 2.55245
+
+discriminator loss: 0.11986399442
+generator loss: 3.67734
+
+discriminator loss: 0.201262295246
+generator loss: 5.10652
+
+discriminator loss: 0.088756904006
+generator loss: 4.46377
+
+discriminator loss: 0.730900347233
+generator loss: 1.14432
+
+discriminator loss: 0.378735989332
+generator loss: 2.40575
+
+discriminator loss: 0.0857683420181
+generator loss: 5.81868
+
+discriminator loss: 0.0976096913218
+generator loss: 5.16881
+
+discriminator loss: 0.042447283864
+generator loss: 3.7058
+
+discriminator loss: 0.147540390491
+generator loss: 5.38988
+
+discriminator loss: 0.114820256829
+generator loss: 5.38248
+
+discriminator loss: 0.00798444449902
+generator loss: 6.55816
+
+discriminator loss: 0.629154622555
+generator loss: 1.66011
+
+discriminator loss: 0.268880307674
+generator loss: 4.02903
+
+discriminator loss: 1.14013195038
+generator loss: 2.41166
+
+discriminator loss: 0.195809260011
+generator loss: 1.53083
+
+discriminator loss: 0.144655734301
+generator loss: 2.04406
+
+discriminator loss: 0.19713152945
+generator loss: 2.26816
+
+discriminator loss: 0.10930172354
+generator loss: 2.29022
+
+discriminator loss: 0.325303047895
+generator loss: 1.34671
+
+discriminator loss: 1.68856358528
+generator loss: 3.14167
+
+discriminator loss: 0.115782417357
+generator loss: 1.02489
+
+discriminator loss: 0.322458088398
+generator loss: 0.357821
+
+discriminator loss: 0.250559061766
+generator loss: 5.69441
+
+discriminator loss: 0.0944942757487
+generator loss: 2.66819
+
+discriminator loss: 0.189818784595
+generator loss: 2.50889
+
+discriminator loss: 0.350488454103
+generator loss: 2.53264
+
+discriminator loss: 0.119413912296
+generator loss: 5.8972
+
+discriminator loss: 0.0819118022919
+generator loss: 2.29868
+
+discriminator loss: 0.0855197384953
+generator loss: 6.38115
+
+discriminator loss: 1.33811044693
+generator loss: 1.11881
+
+discriminator loss: 0.0254319980741
+generator loss: 3.65187
+
+discriminator loss: 0.0910918712616
+generator loss: 3.29497
+
+discriminator loss: 0.325272262096
+generator loss: 3.22374
+
+discriminator loss: 0.13102017343
+generator loss: 3.36739
+
+discriminator loss: 0.0278736948967
+generator loss: 5.6707
+
+discriminator loss: 0.0355052128434
+generator loss: 4.86868
+
+discriminator loss: 0.0253331363201
+generator loss: 5.80536
+
+discriminator loss: 0.0558006353676
+generator loss: 4.73467
+
+discriminator loss: 0.000265523791313
+generator loss: 6.44465
+
+discriminator loss: 0.329901218414
+generator loss: 6.71606
+
+epoch13 end
+
+discriminator loss: 0.740586876869
+generator loss: 0.275385
+
+discriminator loss: 0.213527411222
+generator loss: 3.9349
+
+discriminator loss: 0.16932810843
+generator loss: 3.37889
+
+discriminator loss: 0.0908946171403
+generator loss: 5.2519
+
+discriminator loss: 0.0427213460207
+generator loss: 5.84959
+
+discriminator loss: 0.0399912036955
+generator loss: 2.96399
+
+discriminator loss: 0.0655409693718
+generator loss: 5.73184
+
+discriminator loss: 0.0509308874607
+generator loss: 4.09098
+
+discriminator loss: 0.0728365927935
+generator loss: 4.34177
+
+discriminator loss: 0.1401514709
+generator loss: 4.50109
+
+discriminator loss: 0.2330801934
+generator loss: 4.63915
+
+discriminator loss: -0.00465058535337
+generator loss: 5.16878
+
+discriminator loss: 0.0896224603057
+generator loss: 6.56556
+
+discriminator loss: 0.154599815607
+generator loss: 5.39429
+
+discriminator loss: 0.0487289316952
+generator loss: 5.99715
+
+discriminator loss: 0.0879517421126
+generator loss: 4.42778
+
+discriminator loss: 0.0957383215427
+generator loss: 4.91612
+
+discriminator loss: 0.107825398445
+generator loss: 3.75443
+
+discriminator loss: 0.356916427612
+generator loss: 5.9493
+
+discriminator loss: 0.271075665951
+generator loss: 5.01804
+
+discriminator loss: 0.285561800003
+generator loss: 1.77826
+
+discriminator loss: 0.102622583508
+generator loss: 1.55847
+
+discriminator loss: 0.560974180698
+generator loss: 1.2229
+
+discriminator loss: 0.0921378359199
+generator loss: 1.93268
+
+discriminator loss: 0.742516517639
+generator loss: 2.73913
+
+discriminator loss: 0.159944981337
+generator loss: 1.54859
+
+discriminator loss: 0.0334588810802
+generator loss: 3.71968
+
+discriminator loss: 0.418523848057
+generator loss: 1.40777
+
+discriminator loss: 0.368026614189
+generator loss: 2.83483
+
+discriminator loss: 0.0669257640839
+generator loss: 3.2017
+
+discriminator loss: 0.0773101300001
+generator loss: 2.87166
+
+discriminator loss: 0.158525273204
+generator loss: 3.24743
+
+discriminator loss: 0.0780830010772
+generator loss: 5.97246
+
+discriminator loss: 0.0420119427145
+generator loss: 4.96007
+
+discriminator loss: 0.0184450894594
+generator loss: 4.47744
+
+discriminator loss: 0.376860231161
+generator loss: 0.376647
+
+discriminator loss: 0.00858806818724
+generator loss: 7.82821
+
+discriminator loss: 0.164967179298
+generator loss: 2.8564
+
+discriminator loss: 0.233920529485
+generator loss: 4.3007
+
+discriminator loss: 0.00417096912861
+generator loss: 7.16924
+
+discriminator loss: 0.16022503376
+generator loss: 4.77673
+
+discriminator loss: 0.0167762227356
+generator loss: 6.40406
+
+discriminator loss: 0.101887851954
+generator loss: 6.80921
+
+discriminator loss: 0.297847509384
+generator loss: 1.829
+
+discriminator loss: 0.0571252703667
+generator loss: 1.01015
+
+discriminator loss: 0.415207713842
+generator loss: 2.44937
+
+epoch14 end
+
+discriminator loss: 0.112117998302
+generator loss: 3.80007
+
+discriminator loss: 0.255018413067
+generator loss: 6.03648
+
+discriminator loss: 0.455127447844
+generator loss: 1.45402
+
+discriminator loss: 0.115858383477
+generator loss: 4.23081
+
+discriminator loss: 0.121326893568
+generator loss: 4.27022
+
+discriminator loss: 0.110997460783
+generator loss: 5.5943
+
+discriminator loss: 0.113424770534
+generator loss: 5.61551
+
+discriminator loss: 0.0904802083969
+generator loss: 5.92843
+
+discriminator loss: 0.481012225151
+generator loss: 2.4091
+
+discriminator loss: 0.202769786119
+generator loss: 1.1673
+
+discriminator loss: 0.0655332505703
+generator loss: 4.30525
+
+discriminator loss: 0.00915291905403
+generator loss: 5.18993
+
+discriminator loss: 0.0185827314854
+generator loss: 5.50846
+
+discriminator loss: 0.0513739585876
+generator loss: 5.11654
+
+discriminator loss: 0.0274700075388
+generator loss: 7.01272
+
+discriminator loss: 0.00496864318848
+generator loss: 3.42253
+
+discriminator loss: -0.000136755406857
+generator loss: 6.21024
+
+discriminator loss: 0.20107921958
+generator loss: 2.7205
+
+discriminator loss: 0.0887291878462
+generator loss: 2.51944
+
+discriminator loss: 0.0710833221674
+generator loss: 2.55775
+
+discriminator loss: 0.353811472654
+generator loss: 5.00488
+
+discriminator loss: 0.199623957276
+generator loss: 3.61881
+
+discriminator loss: 0.267367303371
+generator loss: 2.38924
+
+discriminator loss: 0.0514513254166
+generator loss: 5.36947
+
+discriminator loss: 0.152792349458
+generator loss: 1.852
+
+discriminator loss: 0.0217501521111
+generator loss: 5.05964
+
+discriminator loss: 0.0145164206624
+generator loss: 8.03405
+
+discriminator loss: 0.834529280663
+generator loss: 0.209148
+
+discriminator loss: 0.214571505785
+generator loss: 3.30176
+
+discriminator loss: 0.251390278339
+generator loss: 1.80951
+
+discriminator loss: 0.099505469203
+generator loss: 3.10386
+
+discriminator loss: 0.702970921993
+generator loss: 3.35474
+
+discriminator loss: 0.116664208472
+generator loss: 3.68172
+
+discriminator loss: 0.0827712267637
+generator loss: 2.6
+
+discriminator loss: 0.201775982976
+generator loss: 4.61916
+
+discriminator loss: 1.16232681274
+generator loss: 0.787524
+
+discriminator loss: 0.0380235090852
+generator loss: 2.77931
+
+discriminator loss: 0.46339905262
+generator loss: 4.88125
+
+discriminator loss: 0.466386318207
+generator loss: 1.34253
+
+discriminator loss: 0.0418583005667
+generator loss: 7.75124
+
+discriminator loss: 0.0522236004472
+generator loss: 4.21413
+
+discriminator loss: -0.0412285849452
+generator loss: 10.9561
+
+discriminator loss: 0.206739768386
+generator loss: 3.74399
+
+discriminator loss: 0.188269436359
+generator loss: 4.81984
+
+discriminator loss: 0.077810049057
+generator loss: 2.65733
+
+discriminator loss: 0.223475545645
+generator loss: 4.17952
+
+epoch15 end
+
+discriminator loss: 0.865671038628
+generator loss: 2.4375
+
+discriminator loss: 0.265136539936
+generator loss: 5.44469
+
+discriminator loss: 0.204109832644
+generator loss: 0.887768
+
+discriminator loss: 0.0810457393527
+generator loss: 5.15406
+
+discriminator loss: 0.148521751165
+generator loss: 5.95815
+
+discriminator loss: 0.00490269437432
+generator loss: 3.8707
+
+discriminator loss: 0.204287156463
+generator loss: 3.38013
+
+discriminator loss: 0.0468593873084
+generator loss: 3.507
+
+discriminator loss: 0.615564823151
+generator loss: 4.31671
+
+discriminator loss: 0.110962674022
+generator loss: 3.95877
+
+discriminator loss: 0.0595527626574
+generator loss: 3.77575
+
+discriminator loss: 0.121876820922
+generator loss: 3.49504
+
+discriminator loss: 0.342638075352
+generator loss: 2.289
+
+discriminator loss: 0.228308424354
+generator loss: 3.27174
+
+discriminator loss: 0.149628788233
+generator loss: 5.0852
+
+discriminator loss: 0.292494148016
+generator loss: 5.05173
+
+discriminator loss: 0.0177956297994
+generator loss: 5.35049
+
+discriminator loss: 0.204338684678
+generator loss: 4.80214
+
+discriminator loss: 0.340539485216
+generator loss: 4.43568
+
+discriminator loss: 0.278745085001
+generator loss: 1.92404
+
+discriminator loss: 0.202041953802
+generator loss: 4.339
+
+discriminator loss: 0.347304105759
+generator loss: 3.33605
+
+discriminator loss: 0.00882832705975
+generator loss: 3.60527
+
+discriminator loss: 0.15599411726
+generator loss: 4.31317
+
+discriminator loss: 0.0976889654994
+generator loss: 2.9512
+
+discriminator loss: 0.0526998713613
+generator loss: 3.27544
+
+discriminator loss: 0.453896462917
+generator loss: 3.18536
+
+discriminator loss: 1.03273653984
+generator loss: 0.602612
+
+discriminator loss: 0.138621434569
+generator loss: 2.64379
+
+discriminator loss: 0.0337838232517
+generator loss: 5.41245
+
+discriminator loss: 0.412062823772
+generator loss: 1.34751
+
+discriminator loss: 0.366211354733
+generator loss: 3.26403
+
+discriminator loss: 0.0540616028011
+generator loss: 4.19741
+
+discriminator loss: 0.117204070091
+generator loss: 2.00481
+
+discriminator loss: 0.0317110680044
+generator loss: 5.91307
+
+discriminator loss: 0.110499747097
+generator loss: 3.50249
+
+discriminator loss: -0.0313356295228
+generator loss: 6.69539
+
+discriminator loss: 0.189436465502
+generator loss: 6.21001
+
+discriminator loss: 0.0535961091518
+generator loss: 7.16142
+
+discriminator loss: 0.00487021356821
+generator loss: 8.11562
+
+discriminator loss: 0.78436166048
+generator loss: 0.83389
+
+discriminator loss: 0.00546817481518
+generator loss: 6.28673
+
+discriminator loss: 0.144650191069
+generator loss: 7.28511
+
+discriminator loss: 0.527097940445
+generator loss: 1.26783
+
+discriminator loss: 0.0333270058036
+generator loss: 3.42382
+
+discriminator loss: 1.08902752399
+generator loss: 3.42426
+
+epoch16 end
+
+discriminator loss: 0.184142097831
+generator loss: 3.15837
+
+discriminator loss: 0.101499661803
+generator loss: 4.31092
+
+discriminator loss: 0.158676445484
+generator loss: 2.72444
+
+discriminator loss: 0.0881864950061
+generator loss: 3.48658
+
+discriminator loss: 0.0865119844675
+generator loss: 4.54307
+
+discriminator loss: 0.076693624258
+generator loss: 3.24531
+
+discriminator loss: 0.14873303473
+generator loss: 4.44033
+
+discriminator loss: 0.168855383992
+generator loss: 3.38879
+
+discriminator loss: 0.0493030026555
+generator loss: 7.32138
+
+discriminator loss: 0.133650898933
+generator loss: 6.00039
+
+discriminator loss: 0.129731416702
+generator loss: 7.10997
+
+discriminator loss: 0.188621401787
+generator loss: 4.88205
+
+discriminator loss: 0.223211690784
+generator loss: 5.42451
+
+discriminator loss: 0.0496855154634
+generator loss: 5.00199
+
+discriminator loss: 0.0750245526433
+generator loss: 6.09861
+
+discriminator loss: 0.0368764661252
+generator loss: 2.18348
+
+discriminator loss: -0.0193599015474
+generator loss: 8.42948
+
+discriminator loss: 0.561797738075
+generator loss: 1.46642
+
+discriminator loss: 0.433915406466
+generator loss: 2.36322
+
+discriminator loss: 0.541501045227
+generator loss: 1.98293
+
+discriminator loss: 0.751762151718
+generator loss: 1.46993
+
+discriminator loss: 0.168912872672
+generator loss: 1.71409
+
+discriminator loss: 0.905090928078
+generator loss: 1.97491
+
+discriminator loss: 0.045554548502
+generator loss: 2.06104
+
+discriminator loss: 0.348015010357
+generator loss: 1.55175
+
+discriminator loss: 0.44543248415
+generator loss: 3.62627
+
+discriminator loss: 0.149279505014
+generator loss: 4.70479
+
+discriminator loss: 0.432517677546
+generator loss: 1.02703
+
+discriminator loss: 0.473351359367
+generator loss: 0.72729
+
+discriminator loss: 0.448555916548
+generator loss: 1.83452
+
+discriminator loss: 0.0863865837455
+generator loss: 3.64607
+
+discriminator loss: 0.474710524082
+generator loss: 1.37634
+
+discriminator loss: 0.192281112075
+generator loss: 4.43324
+
+discriminator loss: 0.113948002458
+generator loss: 3.94406
+
+discriminator loss: 0.78911280632
+generator loss: 4.35074
+
+discriminator loss: 0.482686340809
+generator loss: 2.34921
+
+discriminator loss: 0.178852304816
+generator loss: 4.15546
+
+discriminator loss: 0.0573139116168
+generator loss: 3.04284
+
+discriminator loss: 0.0372040867805
+generator loss: 1.86088
+
+discriminator loss: 0.0273059085011
+generator loss: 8.40225
+
+discriminator loss: 0.223167747259
+generator loss: 4.36675
+
+discriminator loss: 0.0110826045275
+generator loss: 8.15436
+
+discriminator loss: 0.187022417784
+generator loss: 2.98207
+
+discriminator loss: 0.228592321277
+generator loss: 3.61961
+
+discriminator loss: 0.079096108675
+generator loss: 6.41479
+
+discriminator loss: 0.017407104373
+generator loss: 3.88244
+
+epoch17 end
+
+discriminator loss: 0.434678047895
+generator loss: 4.28181
+
+discriminator loss: 0.118846580386
+generator loss: 3.82043
+
+discriminator loss: 0.160405933857
+generator loss: 3.57098
+
+discriminator loss: 0.0686013847589
+generator loss: 3.09037
+
+discriminator loss: 0.0183854401112
+generator loss: 5.32591
+
+discriminator loss: 0.0268350988626
+generator loss: 8.35407
+
+discriminator loss: 0.0133246406913
+generator loss: 4.60555
+
+discriminator loss: 0.00621709227562
+generator loss: 6.38976
+
+discriminator loss: 0.0378439873457
+generator loss: 6.30864
+
+discriminator loss: 0.109876140952
+generator loss: 5.89546
+
+discriminator loss: 0.24596722424
+generator loss: 3.85047
+
+discriminator loss: 0.191600650549
+generator loss: 4.59336
+
+discriminator loss: 0.223058819771
+generator loss: 4.81508
+
+discriminator loss: 0.139785423875
+generator loss: 4.46051
+
+discriminator loss: -0.0112379491329
+generator loss: 4.43348
+
+discriminator loss: 0.100403308868
+generator loss: 4.08366
+
+discriminator loss: 0.0239035263658
+generator loss: 4.55102
+
+discriminator loss: 0.0371356233954
+generator loss: 3.98277
+
+discriminator loss: 0.0888888388872
+generator loss: 7.00629
+
+discriminator loss: 0.0196590945125
+generator loss: 5.74886
+
+discriminator loss: 0.521221399307
+generator loss: 5.90238
+
+discriminator loss: 0.0812011361122
+generator loss: 7.25319
+
+discriminator loss: 0.528833389282
+generator loss: 2.8385
+
+discriminator loss: 0.0540465116501
+generator loss: 4.04068
+
+discriminator loss: 0.0838631093502
+generator loss: 2.82089
+
+discriminator loss: 0.0694730058312
+generator loss: 1.85532
+
+discriminator loss: 0.0850686728954
+generator loss: 4.8299
+
+discriminator loss: 0.180371433496
+generator loss: 4.74203
+
+discriminator loss: 0.382076472044
+generator loss: 1.22963
+
+discriminator loss: 0.301819801331
+generator loss: 5.1717
+
+discriminator loss: 0.117413207889
+generator loss: 3.16783
+
+discriminator loss: 0.106555983424
+generator loss: 5.66883
+
+discriminator loss: 0.0166465118527
+generator loss: 3.06076
+
+discriminator loss: 0.0729724317789
+generator loss: 3.02993
+
+discriminator loss: 0.0852064341307
+generator loss: 4.67929
+
+discriminator loss: 0.674864053726
+generator loss: 6.35421
+
+discriminator loss: 0.202275812626
+generator loss: 5.19344
+
+discriminator loss: 0.0470880754292
+generator loss: 3.46513
+
+discriminator loss: 0.0296624898911
+generator loss: 4.39515
+
+discriminator loss: 0.130510270596
+generator loss: 5.55178
+
+discriminator loss: 0.126829624176
+generator loss: 4.79461
+
+discriminator loss: 0.0622907653451
+generator loss: 5.78248
+
+discriminator loss: 0.0384817272425
+generator loss: 5.87852
+
+discriminator loss: 0.0480927675962
+generator loss: 5.34293
+
+discriminator loss: 0.0777390599251
+generator loss: 4.35541
+
+discriminator loss: 0.0558428093791
+generator loss: 6.15141
+
+epoch18 end
+
+discriminator loss: 0.279772162437
+generator loss: 1.45099
+
+discriminator loss: 0.11933157593
+generator loss: 4.02266
+
+discriminator loss: 0.0889374911785
+generator loss: 1.47936
+
+discriminator loss: 0.0807112902403
+generator loss: 4.22763
+
+discriminator loss: 0.416958451271
+generator loss: 4.43709
+
+discriminator loss: 0.306758642197
+generator loss: 6.0287
+
+discriminator loss: 0.639625966549
+generator loss: 2.1055
+
+discriminator loss: 0.21625085175
+generator loss: 3.86466
+
+discriminator loss: 0.0392572581768
+generator loss: 3.72809
+
+discriminator loss: 0.113852024078
+generator loss: 5.94808
+
+discriminator loss: 0.0406789779663
+generator loss: 3.36733
+
+discriminator loss: 0.0531203895807
+generator loss: 5.06303
+
+discriminator loss: 0.174588829279
+generator loss: 5.73603
+
+discriminator loss: -0.0268218442798
+generator loss: 6.92596
+
+discriminator loss: 0.147711098194
+generator loss: 3.04181
+
+discriminator loss: 0.0992426201701
+generator loss: 4.88875
+
+discriminator loss: 0.0648070797324
+generator loss: 3.12267
+
+discriminator loss: 0.0961729958653
+generator loss: 2.21703
+
+discriminator loss: 0.0986798256636
+generator loss: 6.15757
+
+discriminator loss: 0.118588894606
+generator loss: 5.1698
+
+discriminator loss: 0.562588512897
+generator loss: 6.49227
+
+discriminator loss: 0.448302358389
+generator loss: 1.9476
+
+discriminator loss: 0.0849831476808
+generator loss: 3.92924
+
+discriminator loss: 0.457350283861
+generator loss: 4.39971
+
+discriminator loss: 0.41778165102
+generator loss: 2.68665
+
+discriminator loss: 1.10135662556
+generator loss: 8.00852
+
+discriminator loss: 0.179347366095
+generator loss: 3.59673
+
+discriminator loss: 0.528215646744
+generator loss: 5.50212
+
+discriminator loss: 0.113614194095
+generator loss: 4.06524
+
+discriminator loss: 0.339003920555
+generator loss: 2.39309
+
+discriminator loss: 0.224271953106
+generator loss: 3.31129
+
+discriminator loss: 0.125794827938
+generator loss: 3.00376
+
+discriminator loss: 0.00208993256092
+generator loss: 6.21486
+
+discriminator loss: 0.132411450148
+generator loss: 9.85439
+
+discriminator loss: 0.0764827728271
+generator loss: 5.88079
+
+discriminator loss: 0.121107578278
+generator loss: 1.91834
+
+discriminator loss: 0.0860084444284
+generator loss: 3.55311
+
+discriminator loss: 0.0295900776982
+generator loss: 5.79907
+
+discriminator loss: -0.000250868499279
+generator loss: 5.63706
+
+discriminator loss: 0.464234918356
+generator loss: 6.23253
+
+discriminator loss: 0.109499379992
+generator loss: 5.37745
+
+discriminator loss: 0.0228551775217
+generator loss: 6.30441
+
+discriminator loss: 0.0635591521859
+generator loss: 4.06087
+
+discriminator loss: 0.0842417776585
+generator loss: 2.59325
+
+discriminator loss: 0.0997127965093
+generator loss: 3.20633
+
+discriminator loss: 0.0204296559095
+generator loss: 8.81539
+
+epoch19 end
+
+discriminator loss: 0.161996603012
+generator loss: 1.91594
+
+discriminator loss: 0.0495578274131
+generator loss: 5.41642
+
+discriminator loss: 0.105052493513
+generator loss: 2.09497
+
+discriminator loss: 0.0348660200834
+generator loss: 7.1298
+
+discriminator loss: 0.0608918964863
+generator loss: 5.11866
+
+discriminator loss: 0.052024256438
+generator loss: 2.30495
+
+discriminator loss: 0.170544981956
+generator loss: 4.21299
+
+discriminator loss: 0.0126832425594
+generator loss: 3.8997
+
+discriminator loss: 0.165440052748
+generator loss: 3.03916
+
+discriminator loss: 0.0244613587856
+generator loss: 6.92957
+
+discriminator loss: 0.029764726758
+generator loss: 2.08294
+
+discriminator loss: -0.000846847891808
+generator loss: 7.50107
+
+discriminator loss: 0.194704651833
+generator loss: 3.47866
+
+discriminator loss: 0.180161803961
+generator loss: 6.83027
+
+discriminator loss: 0.00303338468075
+generator loss: 5.87171
+
+discriminator loss: 0.0784626305103
+generator loss: 3.2357
+
+discriminator loss: -0.0158748030663
+generator loss: 8.07268
+
+discriminator loss: 0.071012660861
+generator loss: 4.95655
+
+discriminator loss: 0.0269790142775
+generator loss: 5.28349
+
+discriminator loss: 0.148414924741
+generator loss: 4.46509
+
+discriminator loss: 0.121716715395
+generator loss: 4.59713
+
+discriminator loss: 0.051152408123
+generator loss: 5.4703
+
+discriminator loss: 0.0416849330068
+generator loss: 2.21065
+
+discriminator loss: 0.0506602302194
+generator loss: 4.81981
+
+discriminator loss: -0.0309594944119
+generator loss: 4.51417
+
+discriminator loss: 0.0200336351991
+generator loss: 2.8522
+
+discriminator loss: 0.0404305197299
+generator loss: 6.45788
+
+discriminator loss: 0.946249306202
+generator loss: 3.75649
+
+discriminator loss: 0.259900808334
+generator loss: 2.625
+
+discriminator loss: 0.0319661833346
+generator loss: 2.05024
+
+discriminator loss: 0.0442637503147
+generator loss: 2.62264
+
+discriminator loss: 0.197980806231
+generator loss: 3.47553
+
+discriminator loss: 0.178772851825
+generator loss: 5.82614
+
+discriminator loss: 0.0501880981028
+generator loss: 2.05012
+
+discriminator loss: 0.268757760525
+generator loss: 7.03848
+
+discriminator loss: 0.429311424494
+generator loss: 0.435933
+
+discriminator loss: 0.0211265198886
+generator loss: 5.62754
+
+discriminator loss: 0.106724262238
+generator loss: 3.82847
+
+discriminator loss: 0.112911954522
+generator loss: 6.8978
+
+discriminator loss: 0.0133782848716
+generator loss: 6.10262
+
+discriminator loss: 0.019615855068
+generator loss: 3.64444
+
+discriminator loss: 0.0502167493105
+generator loss: 5.48545
+
+discriminator loss: 0.0606755279005
+generator loss: 4.88871
+
+discriminator loss: 0.0361686125398
+generator loss: 5.11976
+
+discriminator loss: 0.135671332479
+generator loss: 5.49658
+
+discriminator loss: -0.0288548991084
+generator loss: 11.9519
+
+epoch20 end
+
+discriminator loss: 0.760439753532
+generator loss: 1.61481
+
+discriminator loss: 0.0866810902953
+generator loss: 6.30711
+
+discriminator loss: 0.0706615746021
+generator loss: 2.6501
+
+discriminator loss: 0.34235188365
+generator loss: 4.22331
+
+discriminator loss: 0.0385033562779
+generator loss: 3.69515
+
+discriminator loss: 0.0771845802665
+generator loss: 5.74536
+
+discriminator loss: 0.0372591465712
+generator loss: 4.8551
+
+discriminator loss: 0.103107206523
+generator loss: 2.61325
+
+discriminator loss: 0.112394973636
+generator loss: 5.04885
+
+discriminator loss: 0.20999917388
+generator loss: 6.81395
+
+discriminator loss: 0.0768856853247
+generator loss: 5.549
+
+discriminator loss: -0.00155699253082
+generator loss: 7.11525
+
+discriminator loss: 0.111271619797
+generator loss: 4.22824
+
+discriminator loss: 0.0223208218813
+generator loss: 7.30791
+
+discriminator loss: 0.0451938174665
+generator loss: 4.09745
+
+discriminator loss: 0.322845935822
+generator loss: 3.16844
+
+discriminator loss: 0.0510548725724
+generator loss: 4.30174
+
+discriminator loss: 1.22057008743
+generator loss: 5.12099
+
+discriminator loss: 0.123682513833
+generator loss: 4.13562
+
+discriminator loss: 0.360568284988
+generator loss: 4.32515
+
+discriminator loss: 0.00573919713497
+generator loss: 1.02265
+
+discriminator loss: 0.0350411981344
+generator loss: 2.35872
+
+discriminator loss: 0.165498584509
+generator loss: 3.81473
+
+discriminator loss: 0.0415123924613
+generator loss: 6.28469
+
+discriminator loss: 0.267346382141
+generator loss: 6.76149
+
+discriminator loss: 0.0606345199049
+generator loss: 8.63797
+
+discriminator loss: 0.112397268414
+generator loss: 2.64533
+
+discriminator loss: 0.0570508614182
+generator loss: 5.04102
+
+discriminator loss: 0.028100669384
+generator loss: 4.71573
+
+discriminator loss: 0.0250390432775
+generator loss: 2.98378
+
+discriminator loss: 0.0471756756306
+generator loss: 6.61956
+
+discriminator loss: 0.518765568733
+generator loss: 1.82294
+
+discriminator loss: -0.0132846385241
+generator loss: 5.46084
+
+discriminator loss: 0.154866576195
+generator loss: 2.05837
+
+discriminator loss: 0.492656707764
+generator loss: 5.94784
+
+discriminator loss: 0.191420823336
+generator loss: 1.57654
+
+discriminator loss: 0.156697019935
+generator loss: 2.68908
+
+discriminator loss: 0.404716938734
+generator loss: 3.144
+
+discriminator loss: 0.0478189364076
+generator loss: 5.96649
+
+discriminator loss: -0.0164846777916
+generator loss: 9.59237
+
+discriminator loss: 1.65625667572
+generator loss: 0.728657
+
+discriminator loss: 0.044610068202
+generator loss: 4.3961
+
+discriminator loss: 0.122601434588
+generator loss: 3.22613
+
+discriminator loss: 0.0478855147958
+generator loss: 3.22446
+
+discriminator loss: 0.30670529604
+generator loss: 2.00794
+
+discriminator loss: -0.0136986300349
+generator loss: 6.22281
+
+epoch21 end
+
+discriminator loss: 0.221937775612
+generator loss: 2.72676
+
+discriminator loss: 0.191058710217
+generator loss: 8.07409
+
+discriminator loss: 0.236052781343
+generator loss: 4.26125
+
+discriminator loss: 0.0307482331991
+generator loss: 7.69929
+
+discriminator loss: 0.296790957451
+generator loss: 3.64705
+
+discriminator loss: 0.416855663061
+generator loss: 5.56326
+
+discriminator loss: 0.162368908525
+generator loss: 7.56721
+
+discriminator loss: 0.0927920117974
+generator loss: 4.65808
+
+discriminator loss: 0.0316594913602
+generator loss: 3.52725
+
+discriminator loss: 0.0421927757561
+generator loss: 3.39886
+
+discriminator loss: 0.0245885625482
+generator loss: 7.45313
+
+discriminator loss: 0.086531214416
+generator loss: 6.33176
+
+discriminator loss: 0.062813013792
+generator loss: 4.55804
+
+discriminator loss: 0.20973187685
+generator loss: 7.73765
+
+discriminator loss: 0.0555906482041
+generator loss: 5.04241
+
+discriminator loss: 0.183530896902
+generator loss: 4.22712
+
+discriminator loss: 0.461237847805
+generator loss: 7.1029
+
+discriminator loss: 0.170271277428
+generator loss: 6.23632
+
+discriminator loss: 0.0475186817348
+generator loss: 3.88345
+
+discriminator loss: 0.053263541311
+generator loss: 1.71479
+
+discriminator loss: 0.126024737954
+generator loss: 4.85566
+
+discriminator loss: 0.0636259317398
+generator loss: 5.38806
+
+discriminator loss: 0.169186770916
+generator loss: 5.82635
+
+discriminator loss: -0.029572814703
+generator loss: 7.32673
+
+discriminator loss: 0.862922310829
+generator loss: 0.211714
+
+discriminator loss: 0.0477974787354
+generator loss: 3.15728
+
+discriminator loss: 0.026563808322
+generator loss: 5.63382
+
+discriminator loss: 0.0475479699671
+generator loss: 6.55419
+
+discriminator loss: 0.118654891849
+generator loss: 4.30304
+
+discriminator loss: 0.120647981763
+generator loss: 3.88933
+
+discriminator loss: -0.00576159358025
+generator loss: 4.06366
+
+discriminator loss: 0.339838027954
+generator loss: 2.46083
+
+discriminator loss: -0.0164066702127
+generator loss: 6.63701
+
+discriminator loss: 0.0110766962171
+generator loss: 6.28457
+
+discriminator loss: 0.301712989807
+generator loss: 8.68229
+
+discriminator loss: 0.410819113255
+generator loss: 2.69909
+
+discriminator loss: 0.00183046609163
+generator loss: 5.085
+
+discriminator loss: 0.063992805779
+generator loss: 3.50897
+
+discriminator loss: 0.209580302238
+generator loss: 3.17383
+
+discriminator loss: 0.186069980264
+generator loss: 4.28417
+
+discriminator loss: 0.0301025807858
+generator loss: 2.84798
+
+discriminator loss: 0.0476392917335
+generator loss: 3.90964
+
+discriminator loss: 0.024251408875
+generator loss: 7.62143
+
+discriminator loss: 0.0493701137602
+generator loss: 6.14624
+
+discriminator loss: 0.460865408182
+generator loss: 4.70651
+
+discriminator loss: 0.0716778188944
+generator loss: 7.02502
+
+epoch22 end
+
+discriminator loss: 0.424084752798
+generator loss: 2.10827
+
+discriminator loss: 0.121025897563
+generator loss: 4.13364
+
+discriminator loss: 0.76336145401
+generator loss: 2.22999
+
+discriminator loss: 0.17253702879
+generator loss: 6.47824
+
+discriminator loss: 0.143800273538
+generator loss: 5.15874
+
+discriminator loss: 0.043695371598
+generator loss: 1.85205
+
+discriminator loss: 0.305122971535
+generator loss: 2.75359
+
+discriminator loss: 0.293586492538
+generator loss: 3.60932
+
+discriminator loss: 0.133054062724
+generator loss: 6.8872
+
+discriminator loss: 0.220242828131
+generator loss: 3.5474
+
+discriminator loss: 0.0255884416401
+generator loss: 5.79866
+
+discriminator loss: 0.135356456041
+generator loss: 4.83121
+
+discriminator loss: 0.216606378555
+generator loss: 3.50346
+
+discriminator loss: 0.223202452064
+generator loss: 3.94996
+
+discriminator loss: -0.0225242376328
+generator loss: 7.25399
+
+discriminator loss: 0.281927555799
+generator loss: 6.02632
+
+discriminator loss: 0.0563453771174
+generator loss: 7.30681
+
+discriminator loss: 0.0625720992684
+generator loss: 2.78255
+
+discriminator loss: 0.337942570448
+generator loss: 4.24943
+
+discriminator loss: 0.346253633499
+generator loss: 8.30521
+
+discriminator loss: 0.515961408615
+generator loss: 7.32921
+
+discriminator loss: -0.0103092938662
+generator loss: 3.94592
+
+discriminator loss: 0.144774034619
+generator loss: 5.70169
+
+discriminator loss: 0.20630517602
+generator loss: 6.93593
+
+discriminator loss: 0.497459590435
+generator loss: 0.44286
+
+discriminator loss: 0.0377430915833
+generator loss: 3.64504
+
+discriminator loss: 0.100994735956
+generator loss: 6.34445
+
+discriminator loss: 0.259445250034
+generator loss: 5.69169
+
+discriminator loss: 0.120160393417
+generator loss: 5.5061
+
+discriminator loss: 0.0304028317332
+generator loss: 6.13982
+
+discriminator loss: 0.0361992008984
+generator loss: 6.36
+
+discriminator loss: 0.168780595064
+generator loss: 5.82616
+
+discriminator loss: 0.0383939556777
+generator loss: 5.58668
+
+discriminator loss: -0.000814341008663
+generator loss: 4.05558
+
+discriminator loss: 0.665039241314
+generator loss: 7.51611
+
+discriminator loss: 0.147929549217
+generator loss: 3.38039
+
+discriminator loss: 0.00616213679314
+generator loss: 4.12403
+
+discriminator loss: 0.0271525420249
+generator loss: 3.35118
+
+discriminator loss: 0.0562662146986
+generator loss: 6.79258
+
+discriminator loss: 0.0244373306632
+generator loss: 5.43637
+
+discriminator loss: 0.13283751905
+generator loss: 3.35334
+
+discriminator loss: 0.355146437883
+generator loss: 6.53035
+
+discriminator loss: 0.0683704316616
+generator loss: 3.30665
+
+discriminator loss: 0.523275315762
+generator loss: 2.9251
+
+discriminator loss: 0.164901807904
+generator loss: 3.16117
+
+discriminator loss: 0.0475067049265
+generator loss: 4.12398
+
+epoch23 end
+
+discriminator loss: 0.129359975457
+generator loss: 1.65636
+
+discriminator loss: 0.049139559269
+generator loss: 6.53717
+
+discriminator loss: 0.0929196402431
+generator loss: 1.121
+
+discriminator loss: 0.0516546331346
+generator loss: 5.48387
+
+discriminator loss: 0.0484464094043
+generator loss: 6.26804
+
+discriminator loss: 0.318607449532
+generator loss: 5.95083
+
+discriminator loss: 0.292902648449
+generator loss: 3.83238
+
+discriminator loss: 0.313935130835
+generator loss: 4.09051
+
+discriminator loss: 0.356382191181
+generator loss: 4.07301
+
+discriminator loss: 0.0782873779535
+generator loss: 6.83417
+
+discriminator loss: 0.123865321279
+generator loss: 5.50096
+
+discriminator loss: 0.00414973497391
+generator loss: 6.35575
+
+discriminator loss: 0.0985474437475
+generator loss: 4.63579
+
+discriminator loss: 0.128502711654
+generator loss: 6.49242
+
+discriminator loss: 0.060046441853
+generator loss: 6.21001
+
+discriminator loss: 0.310797959566
+generator loss: 3.12021
+
+discriminator loss: 0.0101700946689
+generator loss: 8.8626
+
+discriminator loss: 0.110219664872
+generator loss: 5.35773
+
+discriminator loss: 0.20283228159
+generator loss: 3.86412
+
+discriminator loss: 0.05939014256
+generator loss: 1.38636
+
+discriminator loss: 0.0965381786227
+generator loss: 2.80716
+
+discriminator loss: 0.0837783366442
+generator loss: 2.53048
+
+discriminator loss: 0.142028510571
+generator loss: 5.29732
+
+discriminator loss: 0.218596547842
+generator loss: 6.96371
+
+discriminator loss: 0.288199424744
+generator loss: 1.20152
+
+discriminator loss: -0.00468185544014
+generator loss: 4.71932
+
+discriminator loss: 0.184072121978
+generator loss: 6.52641
+
+discriminator loss: 0.520763814449
+generator loss: 8.92745
+
+discriminator loss: 0.159321814775
+generator loss: 6.98159
+
+discriminator loss: 0.161531418562
+generator loss: 0.586058
+
+discriminator loss: 0.353183269501
+generator loss: 6.17256
+
+discriminator loss: 0.268521219492
+generator loss: 2.0362
+
+discriminator loss: 0.0809620767832
+generator loss: 2.57587
+
+discriminator loss: 0.153994694352
+generator loss: 2.84384
+
+discriminator loss: 0.150395154953
+generator loss: 4.42104
+
+discriminator loss: 0.882099151611
+generator loss: 3.18132
+
+discriminator loss: 0.0171759128571
+generator loss: 6.47269
+
+discriminator loss: 0.229528576136
+generator loss: 5.68476
+
+discriminator loss: 0.0241497159004
+generator loss: 5.8918
+
+discriminator loss: 0.0167789161205
+generator loss: 8.375
+
+discriminator loss: 0.556218028069
+generator loss: 5.08707
+
+discriminator loss: -0.0141808986664
+generator loss: 8.6531
+
+discriminator loss: 0.109928302467
+generator loss: 7.49236
+
+discriminator loss: 0.0190359614789
+generator loss: 4.7495
+
+discriminator loss: 0.21780410409
+generator loss: 5.42878
+
+discriminator loss: 0.0278252437711
+generator loss: 4.72525
+
+epoch24 end
+
+discriminator loss: 0.401688456535
+generator loss: 0.87216
+
+discriminator loss: 0.0551167204976
+generator loss: 4.07572
+
+discriminator loss: 0.112269811332
+generator loss: 1.0956
+
+discriminator loss: 0.0367323495448
+generator loss: 2.14056
+
+discriminator loss: 0.0958059728146
+generator loss: 4.08075
+
+discriminator loss: -0.00684326142073
+generator loss: 7.29343
+
+discriminator loss: 0.166156411171
+generator loss: 5.96257
+
+discriminator loss: 0.311681181192
+generator loss: 4.6621
+
+discriminator loss: 0.0280093513429
+generator loss: 4.264
+
+discriminator loss: 0.00479172170162
+generator loss: 6.9423
+
+discriminator loss: -0.0137880221009
+generator loss: 6.00506
+
+discriminator loss: -0.0018460676074
+generator loss: 7.52025
+
+discriminator loss: 0.467050284147
+generator loss: 3.32348
+
+discriminator loss: 0.0285330712795
+generator loss: 5.55471
+
+discriminator loss: 0.238038867712
+generator loss: 4.52774
+
+discriminator loss: 0.500071704388
+generator loss: 2.84278
+
+discriminator loss: 0.217332407832
+generator loss: 7.02575
+
+discriminator loss: 0.0798259228468
+generator loss: 6.12666
+
+discriminator loss: 0.129591137171
+generator loss: 7.23375
+
+discriminator loss: 0.614566206932
+generator loss: 7.21651
+
+discriminator loss: 0.114301763475
+generator loss: 4.8389
+
+discriminator loss: 0.0380658656359
+generator loss: 4.21581
+
+discriminator loss: 0.0811326429248
+generator loss: 6.26887
+
+discriminator loss: 0.0052468329668
+generator loss: 8.27295
+
+discriminator loss: 0.588136672974
+generator loss: 0.186075
+
+discriminator loss: 0.0872412025928
+generator loss: 8.56304
+
+discriminator loss: 0.0439537540078
+generator loss: 5.26285
+
+discriminator loss: 0.31433480978
+generator loss: 6.92267
+
+discriminator loss: 0.0326120853424
+generator loss: 6.4523
+
+discriminator loss: 0.129028975964
+generator loss: 4.58432
+
+discriminator loss: 0.214001059532
+generator loss: 7.67885
+
+discriminator loss: 0.188399016857
+generator loss: 5.23789
+
+discriminator loss: 0.219605699182
+generator loss: 4.57838
+
+discriminator loss: 0.104093536735
+generator loss: 2.2596
+
+discriminator loss: 0.131518304348
+generator loss: 5.94057
+
+discriminator loss: 0.41879761219
+generator loss: 3.57105
+
+discriminator loss: 0.0171873345971
+generator loss: 5.55273
+
+discriminator loss: 0.841571748257
+generator loss: 7.96016
+
+discriminator loss: 0.256387144327
+generator loss: 1.89854
+
+discriminator loss: 0.177872061729
+generator loss: 6.74182
+
+discriminator loss: 0.0247417092323
+generator loss: 4.82529
+
+discriminator loss: -0.0252021849155
+generator loss: 11.2427
+
+discriminator loss: 0.261664420366
+generator loss: 8.29704
+
+discriminator loss: 0.0361317694187
+generator loss: 4.17096
+
+discriminator loss: 0.0613767057657
+generator loss: 3.03422
+
+discriminator loss: 0.0374929234385
+generator loss: 7.27698
+
+epoch25 end
+
+discriminator loss: 0.120235472918
+generator loss: 3.60523
+
+discriminator loss: 0.156898334622
+generator loss: 5.82463
+
+discriminator loss: 1.28314900398
+generator loss: 2.57084
+
+discriminator loss: 0.185988023877
+generator loss: 1.64772
+
+discriminator loss: 0.130270197988
+generator loss: 6.49348
+
+discriminator loss: 0.130816355348
+generator loss: 1.17254
+
+discriminator loss: 0.041399218142
+generator loss: 5.43077
+
+discriminator loss: 0.192401096225
+generator loss: 6.34738
+
+discriminator loss: 0.120181500912
+generator loss: 7.72662
+
+discriminator loss: 0.045949049294
+generator loss: 3.08754
+
+discriminator loss: 0.255887895823
+generator loss: 4.11979
+
+discriminator loss: 0.0507019385695
+generator loss: 4.20337
+
+discriminator loss: 0.0930513814092
+generator loss: 1.14218
+
+discriminator loss: 0.0643208473921
+generator loss: 6.17494
+
+discriminator loss: 0.0187993347645
+generator loss: 7.79686
+
+discriminator loss: 0.0909434780478
+generator loss: 5.37783
+
+discriminator loss: 0.0125856027007
+generator loss: 3.08464
+
+discriminator loss: 0.38608288765
+generator loss: 2.39322
+
+discriminator loss: 0.0466626808047
+generator loss: 5.63883
+
+discriminator loss: 0.180580362678
+generator loss: 6.435
+
+discriminator loss: 0.0763752236962
+generator loss: 5.9352
+
+discriminator loss: 0.0561190247536
+generator loss: 5.51579
+
+discriminator loss: 0.0782322585583
+generator loss: 5.25437
+
+discriminator loss: 0.00812302529812
+generator loss: 5.8593
+
+discriminator loss: 0.0483073592186
+generator loss: 3.50896
+
+discriminator loss: 0.0194599144161
+generator loss: 4.42027
+
+discriminator loss: -0.00309901684523
+generator loss: 6.47895
+
+discriminator loss: 0.259386897087
+generator loss: 7.82525
+
+discriminator loss: 0.0473633296788
+generator loss: 5.36564
+
+discriminator loss: -0.0173023045063
+generator loss: 5.11738
+
+discriminator loss: 0.0723335295916
+generator loss: 5.78028
+
+discriminator loss: 0.0778207033873
+generator loss: 4.34271
+
+discriminator loss: 0.321932017803
+generator loss: 4.94938
+
+discriminator loss: 0.0450386963785
+generator loss: 8.18943
+
+discriminator loss: 0.242321178317
+generator loss: 4.11398
+
+discriminator loss: 0.587131619453
+generator loss: 2.69047
+
+discriminator loss: 0.00227839499712
+generator loss: 6.72346
+
+discriminator loss: 0.081665173173
+generator loss: 2.22982
+
+discriminator loss: 0.0241655558348
+generator loss: 7.58452
+
+discriminator loss: 0.0713274925947
+generator loss: 7.83534
+
+discriminator loss: 0.00625436007977
+generator loss: 6.31535
+
+discriminator loss: 0.0918173640966
+generator loss: 1.35048
+
+discriminator loss: 0.258608043194
+generator loss: 1.79373
+
+discriminator loss: 0.135289922357
+generator loss: 1.28972
+
+discriminator loss: 0.0671160891652
+generator loss: 1.75111
+
+discriminator loss: 0.0921424478292
+generator loss: 4.90867
+
+epoch26 end
+
+discriminator loss: 0.837475717068
+generator loss: 1.0015
+
+discriminator loss: 0.19075743854
+generator loss: 4.08657
+
+discriminator loss: 0.157254621387
+generator loss: 3.015
+
+discriminator loss: 0.129978850484
+generator loss: 3.78339
+
+discriminator loss: 0.0264210924506
+generator loss: 5.75273
+
+discriminator loss: 0.222183942795
+generator loss: 3.18693
+
+discriminator loss: 0.0262097641826
+generator loss: 6.9513
+
+discriminator loss: 0.113728612661
+generator loss: 3.99846
+
+discriminator loss: 0.0747723132372
+generator loss: 3.47683
+
+discriminator loss: 0.357218146324
+generator loss: 4.31059
+
+discriminator loss: 0.1799249053
+generator loss: 4.30988
+
+discriminator loss: 0.233247846365
+generator loss: 8.24804
+
+discriminator loss: 0.0468127541244
+generator loss: 1.33508
+
+discriminator loss: 0.267062366009
+generator loss: 5.46434
+
+discriminator loss: 0.0141025781631
+generator loss: 9.04817
+
+discriminator loss: -0.00485936552286
+generator loss: 7.79577
+
+discriminator loss: 0.103118933737
+generator loss: 5.80971
+
+discriminator loss: 0.000500559806824
+generator loss: 6.41202
+
+discriminator loss: 0.0147475451231
+generator loss: 6.77751
+
+discriminator loss: 0.172869667411
+generator loss: 1.74613
+
+discriminator loss: 0.0554557293653
+generator loss: 4.04081
+
+discriminator loss: -0.0044300109148
+generator loss: 6.66118
+
+discriminator loss: 0.0187087878585
+generator loss: 3.34097
+
+discriminator loss: 0.0272891446948
+generator loss: 4.36595
+
+discriminator loss: 0.26613676548
+generator loss: 4.26933
+
+discriminator loss: 0.187332481146
+generator loss: 4.8087
+
+discriminator loss: 0.0417374335229
+generator loss: 4.50852
+
+discriminator loss: 0.241345643997
+generator loss: 6.41087
+
+discriminator loss: 0.0526687949896
+generator loss: 5.69064
+
+discriminator loss: 0.149219632149
+generator loss: 1.66405
+
+discriminator loss: 0.00243656337261
+generator loss: 6.23972
+
+discriminator loss: 0.033863350749
+generator loss: 4.24438
+
+discriminator loss: 0.151645183563
+generator loss: 5.67331
+
+discriminator loss: 0.136448696256
+generator loss: 1.4092
+
+discriminator loss: 0.62771654129
+generator loss: 8.35994
+
+discriminator loss: 1.37514746189
+generator loss: 3.17003
+
+discriminator loss: 0.0482716262341
+generator loss: 8.37896
+
+discriminator loss: 0.0599697716534
+generator loss: 4.83195
+
+discriminator loss: 0.0627730339766
+generator loss: 8.37549
+
+discriminator loss: 0.027187962085
+generator loss: 6.85312
+
+discriminator loss: 0.0292047932744
+generator loss: 3.49829
+
+discriminator loss: 0.0406282618642
+generator loss: 6.94647
+
+discriminator loss: 0.0352847874165
+generator loss: 7.60425
+
+discriminator loss: 0.076909147203
+generator loss: 6.33684
+
+discriminator loss: 0.0118510872126
+generator loss: 6.90606
+
+discriminator loss: 0.0502649173141
+generator loss: 8.00037
+
+epoch27 end
+
+discriminator loss: 0.38201880455
+generator loss: 0.322449
+
+discriminator loss: 0.0704963207245
+generator loss: 4.08029
+
+discriminator loss: 0.712123811245
+generator loss: 1.65461
+
+discriminator loss: 0.207067981362
+generator loss: 5.54595
+
+discriminator loss: 0.0932841077447
+generator loss: 5.04972
+
+discriminator loss: 0.0985224023461
+generator loss: 2.16966
+
+discriminator loss: 0.0265141502023
+generator loss: 7.91369
+
+discriminator loss: 0.180631190538
+generator loss: 1.77539
+
+discriminator loss: 0.193716675043
+generator loss: 5.90641
+
+discriminator loss: 0.0396385118365
+generator loss: 4.45434
+
+discriminator loss: 0.151251390576
+generator loss: 7.28518
+
+discriminator loss: 0.0143157355487
+generator loss: 6.07062
+
+discriminator loss: 0.0696273893118
+generator loss: 3.48231
+
+discriminator loss: 0.0641883537173
+generator loss: 4.0632
+
+discriminator loss: -0.00644794106483
+generator loss: 6.51068
+
+discriminator loss: 0.525146782398
+generator loss: 8.37276
+
+discriminator loss: -0.010074198246
+generator loss: 8.81571
+
+discriminator loss: 0.183500468731
+generator loss: 4.12011
+
+discriminator loss: 0.105463810265
+generator loss: 4.95956
+
+discriminator loss: 0.0486011989415
+generator loss: 2.0886
+
+discriminator loss: 0.0614178925753
+generator loss: 6.8939
+
+discriminator loss: 0.149282962084
+generator loss: 6.1701
+
+discriminator loss: 0.117941975594
+generator loss: 0.828504
+
+discriminator loss: -0.0344459936023
+generator loss: 9.26927
+
+discriminator loss: 0.0840010344982
+generator loss: 4.48822
+
+discriminator loss: 0.000788033008575
+generator loss: 3.27012
+
+discriminator loss: 0.00684531778097
+generator loss: 5.83223
+
+discriminator loss: 0.0769511461258
+generator loss: 3.1667
+
+discriminator loss: 0.114383265376
+generator loss: 3.84481
+
+discriminator loss: 0.214751601219
+generator loss: 5.44203
+
+discriminator loss: 0.0671991705894
+generator loss: 7.4161
+
+discriminator loss: 0.00525200366974
+generator loss: 3.10575
+
+discriminator loss: 0.0467410758138
+generator loss: 6.58125
+
+discriminator loss: 0.210824936628
+generator loss: 2.82051
+
+discriminator loss: 0.0726627111435
+generator loss: 2.01968
+
+discriminator loss: 0.344038784504
+generator loss: 1.47322
+
+discriminator loss: 0.0866863653064
+generator loss: 5.62814
+
+discriminator loss: 0.23615860939
+generator loss: 4.53478
+
+discriminator loss: 0.0534856021404
+generator loss: 7.14588
+
+discriminator loss: 0.01974407956
+generator loss: 6.54955
+
+discriminator loss: 0.128016725183
+generator loss: 7.67698
+
+discriminator loss: 0.554288327694
+generator loss: 5.95294
+
+discriminator loss: 0.128969267011
+generator loss: 4.29767
+
+discriminator loss: 0.170540779829
+generator loss: 3.50638
+
+discriminator loss: 0.0894222408533
+generator loss: 6.78876
+
+discriminator loss: 0.276339352131
+generator loss: 4.89318
+
+epoch28 end
+
+discriminator loss: 0.559677839279
+generator loss: 3.15714
+
+discriminator loss: 0.0807647109032
+generator loss: 4.47206
+
+discriminator loss: 0.31140345335
+generator loss: 0.862823
+
+discriminator loss: 0.185223951936
+generator loss: 0.594572
+
+discriminator loss: 0.280867367983
+generator loss: 5.23834
+
+discriminator loss: 0.22338116169
+generator loss: 4.49305
+
+discriminator loss: 0.00903510302305
+generator loss: 4.46082
+
+discriminator loss: 0.0690455436707
+generator loss: 2.42319
+
+discriminator loss: 0.0601543597877
+generator loss: 6.49267
+
+discriminator loss: 0.411682903767
+generator loss: 6.19976
+
+discriminator loss: 0.0943677052855
+generator loss: 8.49826
+
+discriminator loss: 0.0887517929077
+generator loss: 7.93676
+
+discriminator loss: 0.0535168237984
+generator loss: 4.40727
+
+discriminator loss: 0.148375764489
+generator loss: 4.38257
+
+discriminator loss: -0.0613922178745
+generator loss: 8.01956
+
+discriminator loss: 0.0985168963671
+generator loss: 5.37992
+
+discriminator loss: 0.0574669390917
+generator loss: 6.70165
+
+discriminator loss: 0.060340821743
+generator loss: 4.74028
+
+discriminator loss: 0.326926112175
+generator loss: 6.29245
+
+discriminator loss: 0.0826755166054
+generator loss: 0.650263
+
+discriminator loss: 0.00288747996092
+generator loss: 4.04165
+
+discriminator loss: 0.000891327857971
+generator loss: 7.37342
+
+discriminator loss: 0.24154740572
+generator loss: 4.33945
+
+discriminator loss: 0.053486160934
+generator loss: 3.55726
+
+discriminator loss: 0.127269342542
+generator loss: 3.67128
+
+discriminator loss: 0.0501199886203
+generator loss: 7.55798
+
+discriminator loss: 0.00462689995766
+generator loss: 5.76132
+
+discriminator loss: 0.0267501026392
+generator loss: 2.72015
+
+discriminator loss: -0.00978051126003
+generator loss: 7.19649
+
+discriminator loss: 0.0675229877234
+generator loss: 4.73483
+
+discriminator loss: -0.0105683878064
+generator loss: 6.81139
+
+discriminator loss: 0.230053290725
+generator loss: 1.26058
+
+discriminator loss: 0.0497419163585
+generator loss: 6.28751
+
+discriminator loss: 0.0426924005151
+generator loss: 4.61453
+
+discriminator loss: 0.0947182700038
+generator loss: 3.78244
+
+discriminator loss: 0.122319035232
+generator loss: 2.09111
+
+discriminator loss: -0.0236128866673
+generator loss: 7.06121
+
+discriminator loss: 0.02301806584
+generator loss: 4.62343
+
+discriminator loss: 0.0102386474609
+generator loss: 3.39069
+
+discriminator loss: 0.00425665825605
+generator loss: 8.29228
+
+discriminator loss: 0.319704890251
+generator loss: 3.38384
+
+discriminator loss: -0.0293961763382
+generator loss: 9.5383
+
+discriminator loss: 0.0307551026344
+generator loss: 7.75485
+
+discriminator loss: 2.96040439606
+generator loss: 1.60685
+
+discriminator loss: 0.0787381231785
+generator loss: 5.62991
+
+discriminator loss: 0.0953310355544
+generator loss: 5.37292
+
+epoch29 end
+
+discriminator loss: 0.272103905678
+generator loss: 7.02499
+
+discriminator loss: 0.143050342798
+generator loss: 6.13582
+
+discriminator loss: 0.146776944399
+generator loss: 2.53192
+
+discriminator loss: 0.0867963656783
+generator loss: 4.90475
+
+discriminator loss: 0.0510860718787
+generator loss: 4.66118
+
+discriminator loss: 0.0449991039932
+generator loss: 8.98896
+
+discriminator loss: 0.0454258732498
+generator loss: 9.53062
+
+discriminator loss: 0.0859885513783
+generator loss: 6.77047
+
+discriminator loss: 0.151456773281
+generator loss: 6.76442
+
+discriminator loss: 0.0516324341297
+generator loss: 4.3556
+
+discriminator loss: 1.61109268665
+generator loss: 3.92766
+
+discriminator loss: 0.440152227879
+generator loss: 3.52443
+
+discriminator loss: 0.136961236596
+generator loss: 3.83103
+
+discriminator loss: 0.0522567853332
+generator loss: 5.18248
+
+discriminator loss: 0.0340923145413
+generator loss: 5.19702
+
+discriminator loss: 0.318614006042
+generator loss: 5.43848
+
+discriminator loss: 0.0331545509398
+generator loss: 7.2945
+
+discriminator loss: 0.0365710705519
+generator loss: 6.94125
+
+discriminator loss: 0.0767651200294
+generator loss: 2.95378
+
+discriminator loss: 0.029371548444
+generator loss: 2.21731
+
+discriminator loss: 0.117583200336
+generator loss: 2.97584
+
+discriminator loss: 0.176090747118
+generator loss: 5.29357
+
+discriminator loss: 0.0434848368168
+generator loss: 4.22274
+
+discriminator loss: 0.143762335181
+generator loss: 8.13362
+
+discriminator loss: 1.87106752396
+generator loss: 4.22209
+
+discriminator loss: 0.74621295929
+generator loss: 7.35953
+
+discriminator loss: 0.0551426038146
+generator loss: 6.31814
+
+discriminator loss: 0.0279496759176
+generator loss: 3.8461
+
+discriminator loss: 0.825227499008
+generator loss: 7.882
+
+discriminator loss: 0.0874714404345
+generator loss: 2.76624
+
+discriminator loss: -0.00400644540787
+generator loss: 4.55674
+
+discriminator loss: 0.122096762061
+generator loss: 4.90483
+
+discriminator loss: 0.00554102659225
+generator loss: 6.49223
+
+discriminator loss: -0.00434838980436
+generator loss: 2.48226
+
+discriminator loss: 0.388276875019
+generator loss: 7.99559
+
+discriminator loss: 0.448144346476
+generator loss: 2.37639
+
+discriminator loss: 0.0503986775875
+generator loss: 5.88436
+
+discriminator loss: 0.147129639983
+generator loss: 3.70021
+
+discriminator loss: 0.0053538531065
+generator loss: 8.34052
+
+discriminator loss: 9.75281000137e-05
+generator loss: 7.39025
+
+discriminator loss: 0.0268352776766
+generator loss: 6.42058
+
+discriminator loss: -0.00122053921223
+generator loss: 9.25779
+
+discriminator loss: -0.000103712081909
+generator loss: 8.42426
+
+discriminator loss: 0.448196917772
+generator loss: 0.525459
+
+discriminator loss: 0.253168135881
+generator loss: 6.38826
+
+discriminator loss: 0.0166067704558
+generator loss: 5.57092
+
+epoch30 end
+
+discriminator loss: 0.125788554549
+generator loss: 1.10443
+
+discriminator loss: 0.0991011559963
+generator loss: 5.73196
+
+discriminator loss: 0.137412533164
+generator loss: 1.54069
+
+discriminator loss: 0.143165141344
+generator loss: 4.14679
+
+discriminator loss: 0.0669192075729
+generator loss: 3.26404
+
+discriminator loss: 0.131488740444
+generator loss: 5.16605
+
+discriminator loss: 0.0436943173409
+generator loss: 4.95687
+
+discriminator loss: 0.00735814869404
+generator loss: 5.74179
+
+discriminator loss: 0.0206275358796
+generator loss: 6.58218
+
+discriminator loss: 0.220195278525
+generator loss: 2.90135
+
+discriminator loss: 0.216971442103
+generator loss: 7.55402
+
+discriminator loss: 0.170300364494
+generator loss: 8.19261
+
+discriminator loss: 0.025611795485
+generator loss: 7.00049
+
+discriminator loss: 0.0603129975498
+generator loss: 1.88542
+
+discriminator loss: -0.0350691378117
+generator loss: 9.39357
+
+discriminator loss: 0.0348135083914
+generator loss: 4.2311
+
+discriminator loss: 0.0353783592582
+generator loss: 4.07532
+
+discriminator loss: 0.00728785991669
+generator loss: 6.60806
+
+discriminator loss: 0.0131238847971
+generator loss: 6.219
+
+discriminator loss: 0.0466002300382
+generator loss: 8.22183
+
+discriminator loss: 0.305490612984
+generator loss: 9.31694
+
+discriminator loss: 0.03661762923
+generator loss: 5.00391
+
+discriminator loss: 0.113581754267
+generator loss: 3.98499
+
+discriminator loss: -0.0179561004043
+generator loss: 6.45179
+
+discriminator loss: 1.59443569183
+generator loss: 0.830311
+
+discriminator loss: 0.0253637507558
+generator loss: 3.68161
+
+discriminator loss: -0.0234426259995
+generator loss: 10.3667
+
+discriminator loss: 0.0985648930073
+generator loss: 7.08604
+
+discriminator loss: 0.102943792939
+generator loss: 3.69637
+
+discriminator loss: 0.0463599301875
+generator loss: 7.06808
+
+discriminator loss: 0.0268214456737
+generator loss: 4.43496
+
+discriminator loss: 0.00769110396504
+generator loss: 7.92957
+
+discriminator loss: 0.965746164322
+generator loss: 12.6439
+
+discriminator loss: 0.572266161442
+generator loss: 3.95149
+
+discriminator loss: 0.0165054500103
+generator loss: 9.50049
+
+discriminator loss: 0.20734372735
+generator loss: 1.99117
+
+discriminator loss: -0.0174266025424
+generator loss: 6.5095
+
+discriminator loss: 0.0915627777576
+generator loss: 5.0095
+
+discriminator loss: 0.352712988853
+generator loss: 4.06305
+
+discriminator loss: 0.0356339588761
+generator loss: 6.49564
+
+discriminator loss: -0.00550400465727
+generator loss: 6.23863
+
+discriminator loss: 0.00530524551868
+generator loss: 8.9802
+
+discriminator loss: 0.0318736061454
+generator loss: 6.76293
+
+discriminator loss: 1.73227989674
+generator loss: 5.7012
+
+discriminator loss: 0.116914503276
+generator loss: 5.18997
+
+discriminator loss: -0.0278480499983
+generator loss: 8.63823
+
+epoch31 end
+
+discriminator loss: 1.17275381088
+generator loss: 5.40484
+
+discriminator loss: 0.0661345273256
+generator loss: 5.10147
+
+discriminator loss: 0.206496179104
+generator loss: 1.27026
+
+discriminator loss: 0.0661244094372
+generator loss: 5.21916
+
+discriminator loss: 0.0706211999059
+generator loss: 3.5489
+
+discriminator loss: 0.995514929295
+generator loss: 11.8608
+
+discriminator loss: 0.209100991488
+generator loss: 5.26008
+
+discriminator loss: 0.529254436493
+generator loss: 4.50279
+
+discriminator loss: 0.274943590164
+generator loss: 4.25408
+
+discriminator loss: 0.0570534840226
+generator loss: 3.86769
+
+discriminator loss: 0.0712945535779
+generator loss: 5.41643
+
+discriminator loss: 0.0528537631035
+generator loss: 7.70787
+
+discriminator loss: 0.172342851758
+generator loss: 6.38554
+
+discriminator loss: 0.2568770051
+generator loss: 4.83429
+
+discriminator loss: -0.00814416259527
+generator loss: 8.02791
+
+discriminator loss: 0.181946843863
+generator loss: 4.53829
+
+discriminator loss: 0.074313595891
+generator loss: 6.6913
+
+discriminator loss: 0.0271332859993
+generator loss: 6.22755
+
+discriminator loss: 0.166916877031
+generator loss: 4.34045
+
+discriminator loss: 0.163587421179
+generator loss: 2.79639
+
+discriminator loss: 0.0325073264539
+generator loss: 4.25738
+
+discriminator loss: -0.033861272037
+generator loss: 4.91135
+
+discriminator loss: 0.166623517871
+generator loss: 4.41765
+
+discriminator loss: 0.0637186467648
+generator loss: 6.12281
+
+discriminator loss: 0.978426337242
+generator loss: 2.92721
+
+discriminator loss: 0.172142058611
+generator loss: 3.41835
+
+discriminator loss: 0.00943394750357
+generator loss: 10.2924
+
+discriminator loss: 0.0039195343852
+generator loss: 7.53528
+
+discriminator loss: 0.0366677008569
+generator loss: 6.48317
+
+discriminator loss: 0.0166732445359
+generator loss: 5.8815
+
+discriminator loss: 0.109445273876
+generator loss: 5.53383
+
+discriminator loss: 0.520488679409
+generator loss: 1.13295
+
+discriminator loss: 0.284602046013
+generator loss: 6.25497
+
+discriminator loss: 0.34620064497
+generator loss: 6.51281
+
+discriminator loss: 0.809201836586
+generator loss: 2.31818
+
+discriminator loss: 0.604912102222
+generator loss: 1.72596
+
+discriminator loss: 0.0704437047243
+generator loss: 5.0584
+
+discriminator loss: 0.0690808296204
+generator loss: 3.78921
+
+discriminator loss: 0.000363126397133
+generator loss: 8.22524
+
+discriminator loss: 0.0576212331653
+generator loss: 4.30611
+
+discriminator loss: 0.0667584836483
+generator loss: 6.7913
+
+discriminator loss: 0.0237767249346
+generator loss: 7.85472
+
+discriminator loss: 0.0601436756551
+generator loss: 3.06557
+
+discriminator loss: 0.0440281331539
+generator loss: 1.30052
+
+discriminator loss: 0.700968563557
+generator loss: 1.93475
+
+discriminator loss: 0.00154276192188
+generator loss: 5.98004
+
+epoch32 end
+
+discriminator loss: 0.53663110733
+generator loss: 0.91259
+
+discriminator loss: 0.249385237694
+generator loss: 4.52384
+
+discriminator loss: 0.4288610816
+generator loss: 1.55021
+
+discriminator loss: 0.296956002712
+generator loss: 3.06418
+
+discriminator loss: 0.513612806797
+generator loss: 8.14093
+
+discriminator loss: 0.306805670261
+generator loss: 3.96017
+
+discriminator loss: 0.165304422379
+generator loss: 5.48374
+
+discriminator loss: 0.085162743926
+generator loss: 5.94843
+
+discriminator loss: 0.17522674799
+generator loss: 6.47066
+
+discriminator loss: 0.0423578172922
+generator loss: 5.60676
+
+discriminator loss: 0.0852566212416
+generator loss: 5.18416
+
+discriminator loss: 0.0630627945065
+generator loss: 5.85557
+
+discriminator loss: 0.253200501204
+generator loss: 4.13544
+
+discriminator loss: 0.0872860401869
+generator loss: 6.02162
+
+discriminator loss: 0.064829647541
+generator loss: 6.08455
+
+discriminator loss: 0.132249936461
+generator loss: 3.25361
+
+discriminator loss: 0.418314754963
+generator loss: 8.2571
+
+discriminator loss: 0.0479952991009
+generator loss: 4.07008
+
+discriminator loss: 0.0129176676273
+generator loss: 9.2779
+
+discriminator loss: 0.138207957149
+generator loss: 3.68843
+
+discriminator loss: 0.000780314207077
+generator loss: 3.91276
+
+discriminator loss: 0.0186929181218
+generator loss: 6.52031
+
+discriminator loss: 0.135039627552
+generator loss: 3.48735
+
+discriminator loss: 0.0501159206033
+generator loss: 9.35851
+
+discriminator loss: 0.0809188485146
+generator loss: 1.40504
+
+discriminator loss: 0.047881744802
+generator loss: 7.01571
+
+discriminator loss: 0.0529911145568
+generator loss: 5.63718
+
+discriminator loss: 0.466836124659
+generator loss: 5.37272
+
+discriminator loss: 0.107832044363
+generator loss: 3.79196
+
+discriminator loss: 0.0475609302521
+generator loss: 6.17938
+
+discriminator loss: 0.203921437263
+generator loss: 5.6875
+
+discriminator loss: 0.486004084349
+generator loss: 1.1472
+
+discriminator loss: 0.0750656202435
+generator loss: 7.82109
+
+discriminator loss: 0.0330755934119
+generator loss: 3.86439
+
+discriminator loss: 0.17333291471
+generator loss: 0.245115
+
+discriminator loss: 0.683467149734
+generator loss: 4.24932
+
+discriminator loss: 0.0614722371101
+generator loss: 6.65695
+
+discriminator loss: 0.229586273432
+generator loss: 5.30403
+
+discriminator loss: 0.193231523037
+generator loss: 7.60223
+
+discriminator loss: 0.000998958945274
+generator loss: 3.28911
+
+discriminator loss: 0.0237923562527
+generator loss: 7.19328
+
+discriminator loss: 0.151766017079
+generator loss: 5.70668
+
+discriminator loss: 0.144328266382
+generator loss: 4.76483
+
+discriminator loss: 0.787797570229
+generator loss: 4.83775
+
+discriminator loss: 0.336534947157
+generator loss: 6.29138
+
+discriminator loss: -0.00683180987835
+generator loss: 5.47418
+
+epoch33 end
+
+discriminator loss: 0.205463111401
+generator loss: 4.14036
+
+discriminator loss: 0.116519242525
+generator loss: 4.86854
+
+discriminator loss: 0.533843874931
+generator loss: 2.49305
+
+discriminator loss: 0.110023908317
+generator loss: 4.57971
+
+discriminator loss: 0.0765036940575
+generator loss: 4.6544
+
+discriminator loss: 0.00933316349983
+generator loss: 3.62792
+
+discriminator loss: 0.103020124137
+generator loss: 6.92878
+
+discriminator loss: 0.275101840496
+generator loss: 3.56778
+
+discriminator loss: 0.0280787199736
+generator loss: 6.74757
+
+discriminator loss: 0.00975630432367
+generator loss: 7.21444
+
+discriminator loss: 0.0451356209815
+generator loss: 2.79795
+
+discriminator loss: -0.0122603029013
+generator loss: 6.20835
+
+discriminator loss: 0.103411152959
+generator loss: 7.81295
+
+discriminator loss: 0.0573476999998
+generator loss: 8.94558
+
+discriminator loss: 0.0422219708562
+generator loss: 6.19622
+
+discriminator loss: 0.297187000513
+generator loss: 4.46341
+
+discriminator loss: 0.128565311432
+generator loss: 5.8181
+
+discriminator loss: 0.00664237886667
+generator loss: 7.98389
+
+discriminator loss: 0.257533282042
+generator loss: 11.2502
+
+discriminator loss: 0.164033353329
+generator loss: 2.86418
+
+discriminator loss: 0.204282909632
+generator loss: 5.49963
+
+discriminator loss: 0.0337583124638
+generator loss: 8.41211
+
+discriminator loss: -0.00969208031893
+generator loss: 7.74702
+
+discriminator loss: 0.360932976007
+generator loss: 9.80144
+
+discriminator loss: 0.700425207615
+generator loss: 2.38955
+
+discriminator loss: 0.0205321535468
+generator loss: 6.45655
+
+discriminator loss: 0.0731312036514
+generator loss: 2.4568
+
+discriminator loss: 0.0368783995509
+generator loss: 5.81964
+
+discriminator loss: 0.0717467069626
+generator loss: 1.6135
+
+discriminator loss: -0.00491347163916
+generator loss: 9.46377
+
+discriminator loss: 1.36393213272
+generator loss: 9.04615
+
+discriminator loss: 0.0276275798678
+generator loss: 5.18931
+
+discriminator loss: 0.0565717406571
+generator loss: 3.06109
+
+discriminator loss: -0.00995792448521
+generator loss: 6.8165
+
+discriminator loss: 0.0920107066631
+generator loss: 2.17733
+
+discriminator loss: 0.320339649916
+generator loss: 1.46899
+
+discriminator loss: 0.166219830513
+generator loss: 3.34805
+
+discriminator loss: 0.159112021327
+generator loss: 6.57646
+
+discriminator loss: 0.0240046232939
+generator loss: 6.12514
+
+discriminator loss: -0.00974610447884
+generator loss: 6.90551
+
+discriminator loss: 0.374662339687
+generator loss: 5.86883
+
+discriminator loss: -0.038808375597
+generator loss: 10.191
+
+discriminator loss: -0.0196254998446
+generator loss: 9.41681
+
+discriminator loss: 0.0295919254422
+generator loss: 4.52726
+
+discriminator loss: -0.0506029054523
+generator loss: 14.2623
+
+discriminator loss: 0.092967517674
+generator loss: 9.50273
+
+epoch34 end
+
+discriminator loss: 0.229217886925
+generator loss: 3.40973
+
+discriminator loss: 0.0750561952591
+generator loss: 7.25445
+
+discriminator loss: 0.882930040359
+generator loss: 1.80875
+
+discriminator loss: 0.326469868422
+generator loss: 1.78028
+
+discriminator loss: 0.20551854372
+generator loss: 6.93778
+
+discriminator loss: 0.0142651796341
+generator loss: 4.88238
+
+discriminator loss: 0.156957060099
+generator loss: 5.23274
+
+discriminator loss: -0.000808611512184
+generator loss: 8.91567
+
+discriminator loss: 0.104844927788
+generator loss: 6.18051
+
+discriminator loss: 0.0793679580092
+generator loss: 5.41117
+
+discriminator loss: 0.286277115345
+generator loss: 6.70874
+
+discriminator loss: 0.0323819704354
+generator loss: 5.7853
+
+discriminator loss: 0.0345357954502
+generator loss: 2.29888
+
+discriminator loss: 0.032279536128
+generator loss: 6.55886
+
+discriminator loss: 0.11240362376
+generator loss: 7.9315
+
+discriminator loss: 0.0613452717662
+generator loss: 4.25469
+
+discriminator loss: 0.0753057971597
+generator loss: 2.14085
+
+discriminator loss: 1.19176793098
+generator loss: 5.71057
+
+discriminator loss: 0.08245408535
+generator loss: 3.00176
+
+discriminator loss: 0.107537731528
+generator loss: 4.55418
+
+discriminator loss: 0.0106644332409
+generator loss: 8.60886
+
+discriminator loss: 0.182223558426
+generator loss: 6.72102
+
+discriminator loss: 0.225017428398
+generator loss: 3.46068
+
+discriminator loss: 0.0626828446984
+generator loss: 3.96396
+
+discriminator loss: -0.00692227482796
+generator loss: 2.05668
+
+discriminator loss: 0.0536929741502
+generator loss: 5.02203
+
+discriminator loss: 0.0223542004824
+generator loss: 7.7284
+
+discriminator loss: 0.121183827519
+generator loss: 3.30046
+
+discriminator loss: -0.0356735289097
+generator loss: 5.61197
+
+discriminator loss: 0.0652011707425
+generator loss: 8.78812
+
+discriminator loss: 0.200048878789
+generator loss: 5.54831
+
+discriminator loss: 0.0690047889948
+generator loss: 4.56484
+
+discriminator loss: 0.0268132835627
+generator loss: 5.64798
+
+discriminator loss: -0.0128353312612
+generator loss: 5.16982
+
+discriminator loss: 0.743483424187
+generator loss: 9.25022
+
+discriminator loss: 0.159717738628
+generator loss: 3.70196
+
+discriminator loss: 0.0801917389035
+generator loss: 6.34633
+
+discriminator loss: 0.03773021698
+generator loss: 6.46599
+
+discriminator loss: 0.0310147479177
+generator loss: 10.5927
+
+discriminator loss: 0.469981491566
+generator loss: 5.7175
+
+discriminator loss: 0.0955020040274
+generator loss: 7.85332
+
+discriminator loss: 0.046701297164
+generator loss: 6.817
+
+discriminator loss: 0.0590371228755
+generator loss: 10.3145
+
+discriminator loss: 0.0885969623923
+generator loss: 2.84283
+
+discriminator loss: 0.0540308728814
+generator loss: 6.25469
+
+discriminator loss: 1.11235845089
+generator loss: 4.87717
+
+epoch35 end
+
+discriminator loss: 0.310443043709
+generator loss: 2.52939
+
+discriminator loss: 0.143566086888
+generator loss: 4.18174
+
+discriminator loss: 0.215709596872
+generator loss: 3.96716
+
+discriminator loss: 0.259759664536
+generator loss: 4.2235
+
+discriminator loss: 0.0365509241819
+generator loss: 6.39212
+
+discriminator loss: 0.106166578829
+generator loss: 5.24693
+
+discriminator loss: 0.0370283424854
+generator loss: 4.81037
+
+discriminator loss: 0.0158920586109
+generator loss: 7.48159
+
+discriminator loss: 0.0397944152355
+generator loss: 9.40468
+
+discriminator loss: 0.062479250133
+generator loss: 4.12346
+
+discriminator loss: 0.268597841263
+generator loss: 7.55398
+
+discriminator loss: -0.0145227909088
+generator loss: 10.0653
+
+discriminator loss: 0.100696928799
+generator loss: 8.98949
+
+discriminator loss: -0.0117731243372
+generator loss: 6.52913
+
+discriminator loss: 0.318655967712
+generator loss: 10.5664
+
+discriminator loss: 0.0315673165023
+generator loss: 5.10374
+
+discriminator loss: 0.03384578228
+generator loss: 4.01491
+
+discriminator loss: 0.119606010616
+generator loss: 4.85467
+
+discriminator loss: 0.059046305716
+generator loss: 3.33623
+
+discriminator loss: 1.15782499313
+generator loss: 2.54363
+
+discriminator loss: 0.164940908551
+generator loss: 4.92214
+
+discriminator loss: 0.0273348614573
+generator loss: 3.96622
+
+discriminator loss: 0.0268539488316
+generator loss: 5.2888
+
+discriminator loss: 0.0474007502198
+generator loss: 3.19868
+
+discriminator loss: 1.0385338068
+generator loss: 1.97592
+
+discriminator loss: 0.119812473655
+generator loss: 5.48725
+
+discriminator loss: 0.114323996007
+generator loss: 5.15054
+
+discriminator loss: 0.0343799889088
+generator loss: 9.31341
+
+discriminator loss: 0.0410606525838
+generator loss: 4.42088
+
+discriminator loss: 0.133513987064
+generator loss: 5.02273
+
+discriminator loss: 0.0118798576295
+generator loss: 4.88006
+
+discriminator loss: 0.551271498203
+generator loss: 1.66498
+
+discriminator loss: -0.0082872658968
+generator loss: 7.72175
+
+discriminator loss: 0.0668610185385
+generator loss: 3.32192
+
+discriminator loss: 0.177806854248
+generator loss: 5.14643
+
+discriminator loss: 0.256526112556
+generator loss: 2.64791
+
+discriminator loss: 0.0276772938669
+generator loss: 5.50198
+
+discriminator loss: 0.118480816483
+generator loss: 1.95343
+
+discriminator loss: 0.13774548471
+generator loss: 6.70878
+
+discriminator loss: 0.0236956998706
+generator loss: 4.73139
+
+discriminator loss: 0.371917843819
+generator loss: 3.81446
+
+discriminator loss: -0.0260590091348
+generator loss: 7.30159
+
+discriminator loss: 0.0255769602954
+generator loss: 8.14891
+
+discriminator loss: 0.292644709349
+generator loss: 3.60855
+
+discriminator loss: 0.0404878035188
+generator loss: 5.5584
+
+discriminator loss: 0.0112927109003
+generator loss: 7.86971
+
+epoch36 end
+
+discriminator loss: 0.130831241608
+generator loss: 3.6797
+
+discriminator loss: 0.112938150764
+generator loss: 3.50251
+
+discriminator loss: 0.23060208559
+generator loss: 2.59298
+
+discriminator loss: 0.163635283709
+generator loss: 2.3756
+
+discriminator loss: 0.237951561809
+generator loss: 4.23696
+
+discriminator loss: 0.0121981278062
+generator loss: 5.46403
+
+discriminator loss: 0.00958969444036
+generator loss: 5.38215
+
+discriminator loss: 0.236332565546
+generator loss: 3.88568
+
+discriminator loss: 0.286977648735
+generator loss: 6.08761
+
+discriminator loss: 0.0380903482437
+generator loss: 5.14706
+
+discriminator loss: 0.0584678351879
+generator loss: 12.4276
+
+discriminator loss: 0.0527011826634
+generator loss: 7.13027
+
+discriminator loss: 0.0254982113838
+generator loss: 5.87
+
+discriminator loss: 0.00190652161837
+generator loss: 7.93856
+
+discriminator loss: 0.034395813942
+generator loss: 7.41631
+
+discriminator loss: 0.0829502269626
+generator loss: 2.55191
+
+discriminator loss: 0.0412177033722
+generator loss: 3.63349
+
+discriminator loss: 0.0469619706273
+generator loss: 6.06342
+
+discriminator loss: 0.0565647035837
+generator loss: 6.03696
+
+discriminator loss: 0.00251656025648
+generator loss: 5.54445
+
+discriminator loss: 0.024651478976
+generator loss: 6.75447
+
+discriminator loss: 0.0755751505494
+generator loss: 0.572264
+
+discriminator loss: 0.0325848609209
+generator loss: 9.9947
+
+discriminator loss: 0.156556129456
+generator loss: 5.97314
+
+discriminator loss: 0.0198164284229
+generator loss: 9.19573
+
+discriminator loss: 0.470642268658
+generator loss: 4.78564
+
+discriminator loss: 0.219193205237
+generator loss: 6.02786
+
+discriminator loss: 0.255524873734
+generator loss: 5.4955
+
+discriminator loss: 0.0524993240833
+generator loss: 5.75929
+
+discriminator loss: 0.0641526281834
+generator loss: 3.36492
+
+discriminator loss: -0.0147649347782
+generator loss: 3.61776
+
+discriminator loss: 0.0148782208562
+generator loss: 4.95603
+
+discriminator loss: 0.0132229924202
+generator loss: 6.3252
+
+discriminator loss: 0.0620250143111
+generator loss: 1.12186
+
+discriminator loss: 0.0215835422277
+generator loss: 5.43039
+
+discriminator loss: 0.0770829916
+generator loss: 1.49241
+
+discriminator loss: 0.02400097996
+generator loss: 4.76134
+
+discriminator loss: -0.0133989900351
+generator loss: 6.09049
+
+discriminator loss: -0.0467473119497
+generator loss: 5.55469
+
+discriminator loss: 0.0246822834015
+generator loss: 7.13441
+
+discriminator loss: 0.0300141721964
+generator loss: 5.8023
+
+discriminator loss: 0.0461941212416
+generator loss: 9.63836
+
+discriminator loss: 0.105621665716
+generator loss: 2.8339
+
+discriminator loss: 0.321401387453
+generator loss: 1.64105
+
+discriminator loss: 0.0158915743232
+generator loss: 6.0563
+
+discriminator loss: 0.00318837165833
+generator loss: 11.6703
+
+epoch37 end
+
+discriminator loss: 0.864392757416
+generator loss: 3.07558
+
+discriminator loss: 0.033707562834
+generator loss: 3.95417
+
+discriminator loss: 0.0893321484327
+generator loss: 0.398725
+
+discriminator loss: 0.0401977412403
+generator loss: 5.801
+
+discriminator loss: 0.0240638256073
+generator loss: 4.39249
+
+discriminator loss: 0.317374646664
+generator loss: 7.63657
+
+discriminator loss: 0.132631987333
+generator loss: 4.54544
+
+discriminator loss: 0.0842306613922
+generator loss: 5.31128
+
+discriminator loss: 0.0182121098042
+generator loss: 6.27819
+
+discriminator loss: -0.000564701855183
+generator loss: 4.88449
+
+discriminator loss: 0.53190279007
+generator loss: 8.66796
+
+discriminator loss: 0.0518774092197
+generator loss: 7.44114
+
+discriminator loss: 0.0363663695753
+generator loss: 6.99501
+
+discriminator loss: 0.0542777627707
+generator loss: 5.31249
+
+discriminator loss: 0.0719462558627
+generator loss: 6.15459
+
+discriminator loss: 0.0933526232839
+generator loss: 4.02101
+
+discriminator loss: 0.0126556456089
+generator loss: 5.61352
+
+discriminator loss: 0.111611425877
+generator loss: 4.25315
+
+discriminator loss: 0.0328444093466
+generator loss: 8.5216
+
+discriminator loss: 0.0354607701302
+generator loss: 6.06757
+
+discriminator loss: 0.423174858093
+generator loss: 4.91289
+
+discriminator loss: 0.0883502736688
+generator loss: 5.39611
+
+discriminator loss: 0.0295178629458
+generator loss: 2.34895
+
+discriminator loss: -0.00589060783386
+generator loss: 7.07377
+
+discriminator loss: 0.16447520256
+generator loss: 2.99428
+
+discriminator loss: 0.100209668279
+generator loss: 7.15557
+
+discriminator loss: 0.0363783687353
+generator loss: 8.95714
+
+discriminator loss: 0.0568991228938
+generator loss: 2.16164
+
+discriminator loss: -0.0231062099338
+generator loss: 7.49996
+
+discriminator loss: 0.142942816019
+generator loss: 3.78426
+
+discriminator loss: 0.0602475404739
+generator loss: 6.03849
+
+discriminator loss: 0.173657894135
+generator loss: 3.75202
+
+discriminator loss: 0.0574572905898
+generator loss: 4.06749
+
+discriminator loss: 0.129019707441
+generator loss: 0.183747
+
+discriminator loss: 0.0552071928978
+generator loss: 5.99319
+
+discriminator loss: 0.100023195148
+generator loss: 6.98548
+
+discriminator loss: 0.0418314933777
+generator loss: 7.40544
+
+discriminator loss: 0.0855409651995
+generator loss: 1.09629
+
+discriminator loss: 0.476133465767
+generator loss: 3.5861
+
+discriminator loss: 0.102980874479
+generator loss: 10.0627
+
+discriminator loss: -0.0214089751244
+generator loss: 8.07922
+
+discriminator loss: 0.0605102553964
+generator loss: 4.38583
+
+discriminator loss: -0.0117624402046
+generator loss: 10.1996
+
+discriminator loss: 0.170502066612
+generator loss: 3.25355
+
+discriminator loss: 0.113047540188
+generator loss: 6.93825
+
+discriminator loss: 0.0569445490837
+generator loss: 6.81539
+
+epoch38 end
+
+discriminator loss: 0.495120733976
+generator loss: 2.20547
+
+discriminator loss: 0.0193404108286
+generator loss: 5.76154
+
+discriminator loss: 1.22699642181
+generator loss: 4.73612
+
+discriminator loss: 0.147868186235
+generator loss: 1.73956
+
+discriminator loss: 0.0975663810968
+generator loss: 5.57045
+
+discriminator loss: 0.489046394825
+generator loss: 4.94205
+
+discriminator loss: 0.00191693007946
+generator loss: 4.996
+
+discriminator loss: 0.194691687822
+generator loss: 4.13627
+
+discriminator loss: 0.302998483181
+generator loss: 6.77409
+
+discriminator loss: 0.417343974113
+generator loss: 3.80443
+
+discriminator loss: 0.0475813448429
+generator loss: 7.73183
+
+discriminator loss: 0.00787098705769
+generator loss: 6.09721
+
+discriminator loss: 0.191219165921
+generator loss: 7.7354
+
+discriminator loss: 0.0913084149361
+generator loss: 5.23246
+
+discriminator loss: -0.0458491072059
+generator loss: 5.84342
+
+discriminator loss: 0.455236017704
+generator loss: 4.0132
+
+discriminator loss: 0.0619666241109
+generator loss: 4.01021
+
+discriminator loss: 0.0635967999697
+generator loss: 4.45424
+
+discriminator loss: 0.000475145876408
+generator loss: 6.57128
+
+discriminator loss: 0.00592835247517
+generator loss: 5.50676
+
+discriminator loss: 0.0691942423582
+generator loss: 1.74187
+
+discriminator loss: -0.0285561159253
+generator loss: 7.99962
+
+discriminator loss: 0.0247435644269
+generator loss: 9.1817
+
+discriminator loss: 0.029873855412
+generator loss: 6.48327
+
+discriminator loss: 0.274416029453
+generator loss: 0.771956
+
+discriminator loss: 0.306488662958
+generator loss: 4.07013
+
+discriminator loss: 0.0434590280056
+generator loss: 7.95588
+
+discriminator loss: 0.0386187881231
+generator loss: 4.59362
+
+discriminator loss: 0.122005783021
+generator loss: 1.02862
+
+discriminator loss: -0.00935109704733
+generator loss: 4.81367
+
+discriminator loss: 0.114818923175
+generator loss: 3.29886
+
+discriminator loss: 1.0449757576
+generator loss: 1.41631
+
+discriminator loss: 0.0403422489762
+generator loss: 6.59566
+
+discriminator loss: -0.0219023674726
+generator loss: 7.61542
+
+discriminator loss: 0.259013831615
+generator loss: 5.02864
+
+discriminator loss: 0.0658846944571
+generator loss: 2.58565
+
+discriminator loss: 0.0873412266374
+generator loss: 4.81998
+
+discriminator loss: 0.0957446917892
+generator loss: 6.13593
+
+discriminator loss: 0.0237055718899
+generator loss: 9.7813
+
+discriminator loss: 0.0266799144447
+generator loss: 5.3638
+
+discriminator loss: 0.184651762247
+generator loss: 5.81284
+
+discriminator loss: 0.0251986756921
+generator loss: 9.91569
+
+discriminator loss: 0.00454558432102
+generator loss: 5.96022
+
+discriminator loss: 0.362342596054
+generator loss: 5.06666
+
+discriminator loss: 0.315685272217
+generator loss: 3.03882
+
+discriminator loss: 0.0257480591536
+generator loss: 10.2577
+
+epoch39 end
+
+discriminator loss: 0.405048787594
+generator loss: 1.05342
+
+discriminator loss: 0.0370700843632
+generator loss: 6.37909
+
+discriminator loss: 0.778648495674
+generator loss: 0.839491
+
+discriminator loss: 0.120682775974
+generator loss: 5.59068
+
+discriminator loss: 0.259480893612
+generator loss: 4.95252
+
+discriminator loss: 1.00549829006
+generator loss: 8.16705
+
+discriminator loss: 0.00722524523735
+generator loss: 7.56099
+
+discriminator loss: -0.011830508709
+generator loss: 5.22419
+
+discriminator loss: 0.0209855213761
+generator loss: 4.25084
+
+discriminator loss: 0.206338584423
+generator loss: 5.6056
+
+discriminator loss: 0.0574656352401
+generator loss: 9.82227
+
+discriminator loss: -0.005560785532
+generator loss: 8.38124
+
+discriminator loss: 0.659719467163
+generator loss: 3.34063
+
+discriminator loss: 0.121996961534
+generator loss: 7.44763
+
+discriminator loss: 0.0297524929047
+generator loss: 4.50223
+
+discriminator loss: 0.164557352662
+generator loss: 4.48957
+
+discriminator loss: -0.00358795374632
+generator loss: 6.44481
+
+discriminator loss: -0.0194813832641
+generator loss: 7.75875
+
+discriminator loss: 0.036705173552
+generator loss: 4.03163
+
+discriminator loss: 1.27615070343
+generator loss: 8.00367
+
+discriminator loss: 0.0529408194125
+generator loss: 6.62742
+
+discriminator loss: 0.114463299513
+generator loss: 2.43174
+
+discriminator loss: 0.365048199892
+generator loss: 5.27341
+
+discriminator loss: 0.338907659054
+generator loss: 2.35652
+
+discriminator loss: 0.227664917707
+generator loss: 0.327793
+
+discriminator loss: 0.113429009914
+generator loss: 4.0708
+
+discriminator loss: 0.0658020302653
+generator loss: 4.98091
+
+discriminator loss: 0.0482554249465
+generator loss: 7.07794
+
+discriminator loss: 0.0407095961273
+generator loss: 4.57763
+
+discriminator loss: 0.461716175079
+generator loss: 9.03602
+
+discriminator loss: 0.171480596066
+generator loss: 5.62
+
+discriminator loss: 0.127680629492
+generator loss: 5.02927
+
+discriminator loss: -0.0121192783117
+generator loss: 7.4197
+
+discriminator loss: 0.0522249862552
+generator loss: 4.17886
+
+discriminator loss: 0.036625765264
+generator loss: 6.26307
+
+discriminator loss: 0.199562579393
+generator loss: 4.15272
+
+discriminator loss: 0.0277233347297
+generator loss: 6.61149
+
+discriminator loss: 0.0499463453889
+generator loss: 3.3036
+
+discriminator loss: 0.231625944376
+generator loss: 5.95342
+
+discriminator loss: 0.0407268926501
+generator loss: 6.47446
+
+discriminator loss: 0.0784953385592
+generator loss: 8.05277
+
+discriminator loss: -0.00285222381353
+generator loss: 12.0356
+
+discriminator loss: -0.0278691723943
+generator loss: 7.71489
+
+discriminator loss: 0.215780586004
+generator loss: 2.45667
+
+discriminator loss: 0.122941613197
+generator loss: 5.77666
+
+discriminator loss: 0.101206555963
+generator loss: 7.16653
+
+epoch40 end
+
+discriminator loss: 1.73236584663
+generator loss: 6.08005
+
+discriminator loss: 0.152496382594
+generator loss: 4.5921
+
+discriminator loss: 0.0447212010622
+generator loss: 1.13624
+
+discriminator loss: 0.140465974808
+generator loss: 3.95482
+
+discriminator loss: 0.0863171815872
+generator loss: 5.77598
+
+discriminator loss: 0.595253586769
+generator loss: 9.50213
+
+discriminator loss: 0.214121133089
+generator loss: 3.72582
+
+discriminator loss: 0.0389744751155
+generator loss: 6.98507
+
+discriminator loss: 0.119628369808
+generator loss: 3.53965
+
+discriminator loss: 0.070086620748
+generator loss: 8.39675
+
+discriminator loss: 0.0471093691885
+generator loss: 4.58232
+
+discriminator loss: 0.0483390241861
+generator loss: 9.22658
+
+discriminator loss: 0.121330440044
+generator loss: 6.66259
+
+discriminator loss: 0.034509755671
+generator loss: 8.72286
+
+discriminator loss: 0.00639890134335
+generator loss: 8.64621
+
+discriminator loss: 0.0498800575733
+generator loss: 5.3803
+
+discriminator loss: -0.0322614610195
+generator loss: 9.58502
+
+discriminator loss: 0.227650702
+generator loss: 2.59213
+
+discriminator loss: 0.0359942764044
+generator loss: 7.24287
+
+discriminator loss: 0.0288486927748
+generator loss: 4.72788
+
+discriminator loss: 0.0697304308414
+generator loss: 4.08624
+
+discriminator loss: 0.146314173937
+generator loss: 3.32099
+
+discriminator loss: -0.00886327028275
+generator loss: 3.73715
+
+discriminator loss: 0.0272295363247
+generator loss: 7.40947
+
+discriminator loss: 0.389716863632
+generator loss: 2.44341
+
+discriminator loss: -0.0339430421591
+generator loss: 6.44013
+
+discriminator loss: 0.0922650769353
+generator loss: 9.25595
+
+discriminator loss: 0.274419844151
+generator loss: 4.2211
+
+discriminator loss: 0.280827194452
+generator loss: 6.35452
+
+discriminator loss: -0.00418646633625
+generator loss: 8.65452
+
+discriminator loss: 0.0661109685898
+generator loss: 4.44989
+
+discriminator loss: 0.0443396568298
+generator loss: 4.59691
+
+discriminator loss: 1.00803112984
+generator loss: 5.55937
+
+discriminator loss: 0.0577005147934
+generator loss: 4.6965
+
+discriminator loss: 0.0382275357842
+generator loss: 1.92515
+
+discriminator loss: 0.207345411181
+generator loss: 1.22163
+
+discriminator loss: 0.122232809663
+generator loss: 7.68437
+
+discriminator loss: 0.108562968671
+generator loss: 2.09967
+
+discriminator loss: 0.965547561646
+generator loss: 6.13736
+
+discriminator loss: 0.215710803866
+generator loss: 5.83254
+
+discriminator loss: 0.0324770584702
+generator loss: 4.62049
+
+discriminator loss: 0.0236326009035
+generator loss: 10.7472
+
+discriminator loss: 0.147959589958
+generator loss: 6.36401
+
+discriminator loss: -0.00282035768032
+generator loss: 8.03811
+
+discriminator loss: 0.0415646135807
+generator loss: 7.35225
+
+discriminator loss: 0.0432758033276
+generator loss: 11.0717
+
+epoch41 end
+
+discriminator loss: 0.332446724176
+generator loss: 2.80814
+
+discriminator loss: 0.172793835402
+generator loss: 3.45285
+
+discriminator loss: 0.423588871956
+generator loss: 2.21274
+
+discriminator loss: 0.181776434183
+generator loss: 6.10388
+
+discriminator loss: 0.124561399221
+generator loss: 3.86815
+
+discriminator loss: 0.375147759914
+generator loss: 6.90869
+
+discriminator loss: 0.107694417238
+generator loss: 7.27482
+
+discriminator loss: 0.267765402794
+generator loss: 2.44866
+
+discriminator loss: 0.333296298981
+generator loss: 5.21109
+
+discriminator loss: -0.0220575779676
+generator loss: 10.5545
+
+discriminator loss: -0.000112280249596
+generator loss: 8.65164
+
+discriminator loss: -0.0188972875476
+generator loss: 10.0346
+
+discriminator loss: 0.179488122463
+generator loss: 2.64448
+
+discriminator loss: 0.151120513678
+generator loss: 5.11386
+
+discriminator loss: -0.00813040137291
+generator loss: 8.07058
+
+discriminator loss: 0.981652021408
+generator loss: 3.61464
+
+discriminator loss: 0.0701629370451
+generator loss: 6.40301
+
+discriminator loss: -0.00473380088806
+generator loss: 4.93913
+
+discriminator loss: 0.116521328688
+generator loss: 5.35052
+
+discriminator loss: 0.0257880166173
+generator loss: 4.67365
+
+discriminator loss: 0.290877103806
+generator loss: 2.74961
+
+discriminator loss: 0.0277468785644
+generator loss: 6.10205
+
+discriminator loss: 0.732624590397
+generator loss: 0.909656
+
+discriminator loss: 0.0266499966383
+generator loss: 4.56036
+
+discriminator loss: 0.155949816108
+generator loss: 3.11899
+
+discriminator loss: 0.018273960799
+generator loss: 4.27988
+
+discriminator loss: 0.0327208340168
+generator loss: 4.68087
+
+discriminator loss: 0.151553303003
+generator loss: 5.7866
+
+discriminator loss: 0.00238157808781
+generator loss: 8.7629
+
+discriminator loss: -0.0215544253588
+generator loss: 3.30991
+
+discriminator loss: 0.0601015426219
+generator loss: 6.29097
+
+discriminator loss: 0.00659872218966
+generator loss: 3.88532
+
+discriminator loss: -0.00744868814945
+generator loss: 10.6117
+
+discriminator loss: 0.163837715983
+generator loss: 3.93691
+
+discriminator loss: 0.0915586873889
+generator loss: 4.81295
+
+discriminator loss: 1.03764355183
+generator loss: 0.732256
+
+discriminator loss: -0.00717326998711
+generator loss: 7.49857
+
+discriminator loss: 0.0879858061671
+generator loss: 8.17363
+
+discriminator loss: 0.0437610447407
+generator loss: 11.4677
+
+discriminator loss: 0.0675559043884
+generator loss: 5.52921
+
+discriminator loss: -0.0241846740246
+generator loss: 7.39659
+
+discriminator loss: -0.0134229063988
+generator loss: 12.6787
+
+discriminator loss: 0.0384836010635
+generator loss: 8.13808
+
+discriminator loss: 0.0403925254941
+generator loss: 5.18278
+
+discriminator loss: 0.0889809727669
+generator loss: 8.06904
+
+discriminator loss: 0.0469254627824
+generator loss: 8.34023
+
+epoch42 end
+
+discriminator loss: 0.0455503240228
+generator loss: 4.59793
+
+discriminator loss: 0.00995557010174
+generator loss: 6.40871
+
+discriminator loss: 1.43123352528
+generator loss: 4.93841
+
+discriminator loss: 0.0505653209984
+generator loss: 4.78647
+
+discriminator loss: 0.226473733783
+generator loss: 8.1296
+
+discriminator loss: 0.3721601367
+generator loss: 4.05531
+
+discriminator loss: 0.149743273854
+generator loss: 4.97571
+
+discriminator loss: 0.0817271023989
+generator loss: 2.81599
+
+discriminator loss: 0.094119027257
+generator loss: 7.5467
+
+discriminator loss: 0.653199136257
+generator loss: 2.31966
+
+discriminator loss: 0.0744654983282
+generator loss: 3.24818
+
+discriminator loss: 0.0178891867399
+generator loss: 7.75646
+
+discriminator loss: -0.0268463417888
+generator loss: 9.42085
+
+discriminator loss: -0.0672721415758
+generator loss: 14.827
+
+discriminator loss: 0.0740654319525
+generator loss: 4.24558
+
+discriminator loss: 0.141320854425
+generator loss: 3.92118
+
+discriminator loss: 0.0992671772838
+generator loss: 6.85463
+
+discriminator loss: 0.836911261082
+generator loss: 7.37645
+
+discriminator loss: 0.0276919715106
+generator loss: 5.58156
+
+discriminator loss: 0.417906820774
+generator loss: 2.7809
+
+discriminator loss: 0.0232254564762
+generator loss: 9.07268
+
+discriminator loss: 0.0509422570467
+generator loss: 8.76064
+
+discriminator loss: 0.138723254204
+generator loss: 8.23575
+
+discriminator loss: 0.1127782166
+generator loss: 6.95204
+
+discriminator loss: -0.0101630985737
+generator loss: 4.701
+
+discriminator loss: 0.00817619264126
+generator loss: 6.95691
+
+discriminator loss: 0.0216228961945
+generator loss: 4.52911
+
+discriminator loss: 0.123770028353
+generator loss: 6.48379
+
+discriminator loss: 0.0155315548182
+generator loss: 4.89966
+
+discriminator loss: 0.00777697563171
+generator loss: 9.60904
+
+discriminator loss: 0.12995223701
+generator loss: 4.64901
+
+discriminator loss: 0.0515387393534
+generator loss: 8.2971
+
+discriminator loss: 0.111486628652
+generator loss: 2.30066
+
+discriminator loss: 0.0785806030035
+generator loss: 3.6998
+
+discriminator loss: -0.00210305303335
+generator loss: 4.10075
+
+discriminator loss: 0.0558637008071
+generator loss: 4.75411
+
+discriminator loss: 0.349937498569
+generator loss: 5.09307
+
+discriminator loss: 0.0646149069071
+generator loss: 6.87086
+
+discriminator loss: -0.0385558903217
+generator loss: 8.88389
+
+discriminator loss: 0.00401344895363
+generator loss: 6.66876
+
+discriminator loss: 0.119679607451
+generator loss: 4.92597
+
+discriminator loss: 0.0299873948097
+generator loss: 5.19104
+
+discriminator loss: 0.024170383811
+generator loss: 7.17238
+
+discriminator loss: -0.0493972375989
+generator loss: 7.23565
+
+discriminator loss: 0.400551617146
+generator loss: 1.98326
+
+discriminator loss: 0.0277931913733
+generator loss: 7.79282
+
+epoch43 end
+
+discriminator loss: 0.146355211735
+generator loss: 1.05436
+
+discriminator loss: 0.0493133105338
+generator loss: 3.51815
+
+discriminator loss: 0.356862932444
+generator loss: 4.52511
+
+discriminator loss: 0.145779430866
+generator loss: 0.653672
+
+discriminator loss: 0.478795826435
+generator loss: 3.11543
+
+discriminator loss: 0.0844303667545
+generator loss: 6.99103
+
+discriminator loss: 0.108895264566
+generator loss: 5.75782
+
+discriminator loss: 0.909058570862
+generator loss: 10.7167
+
+discriminator loss: 0.0616945512593
+generator loss: 5.73115
+
+discriminator loss: 0.0249418616295
+generator loss: 5.41976
+
+discriminator loss: 0.227777063847
+generator loss: 8.49185
+
+discriminator loss: 0.0426747873425
+generator loss: 4.42709
+
+discriminator loss: 0.0131871514022
+generator loss: 6.14601
+
+discriminator loss: 0.012511305511
+generator loss: 7.6797
+
+discriminator loss: 0.0498631820083
+generator loss: 11.6512
+
+discriminator loss: 0.1306194067
+generator loss: 3.63563
+
+discriminator loss: -0.0084185525775
+generator loss: 8.13326
+
+discriminator loss: 0.85735976696
+generator loss: 6.23104
+
+discriminator loss: -0.0377815514803
+generator loss: 8.22655
+
+discriminator loss: 0.0790037885308
+generator loss: 8.01593
+
+discriminator loss: -0.00822752714157
+generator loss: 10.4671
+
+discriminator loss: 0.396777749062
+generator loss: 6.09856
+
+discriminator loss: 0.0205967836082
+generator loss: 6.33592
+
+discriminator loss: 0.0517037436366
+generator loss: 9.74347
+
+discriminator loss: 0.221809446812
+generator loss: 0.48468
+
+discriminator loss: 0.269855588675
+generator loss: 4.17177
+
+discriminator loss: -0.00283347070217
+generator loss: 3.44377
+
+discriminator loss: 0.340954720974
+generator loss: 5.16464
+
+discriminator loss: -0.0429100841284
+generator loss: 8.19414
+
+discriminator loss: -0.0163611620665
+generator loss: 6.64701
+
+discriminator loss: 0.151198640466
+generator loss: 3.42667
+
+discriminator loss: 0.136882692575
+generator loss: 9.50278
+
+discriminator loss: 0.0247772596776
+generator loss: 2.98002
+
+discriminator loss: 0.1130566746
+generator loss: 2.7203
+
+discriminator loss: 0.0550125315785
+generator loss: 7.47804
+
+discriminator loss: 0.0899525806308
+generator loss: 2.95692
+
+discriminator loss: 0.104367032647
+generator loss: 5.76535
+
+discriminator loss: 0.0436773821712
+generator loss: 2.03313
+
+discriminator loss: 0.199951022863
+generator loss: 5.95454
+
+discriminator loss: 0.0214087516069
+generator loss: 7.57576
+
+discriminator loss: 0.041099242866
+generator loss: 8.75412
+
+discriminator loss: -0.0677846595645
+generator loss: 11.1721
+
+discriminator loss: -0.0257835239172
+generator loss: 6.56242
+
+discriminator loss: -0.0226045697927
+generator loss: 10.0005
+
+discriminator loss: -0.0613399520516
+generator loss: 12.202
+
+discriminator loss: 0.0323634073138
+generator loss: 8.1055
+
+epoch44 end
+
+discriminator loss: 0.386863410473
+generator loss: 2.71324
+
+discriminator loss: 0.484900742769
+generator loss: 7.08817
+
+discriminator loss: 0.159900605679
+generator loss: 5.5259
+
+discriminator loss: 0.887153804302
+generator loss: 11.9869
+
+discriminator loss: 0.0636872127652
+generator loss: 7.38407
+
+discriminator loss: 0.0319331623614
+generator loss: 3.56507
+
+discriminator loss: 0.0289695411921
+generator loss: 5.65088
+
+discriminator loss: 0.0593322254717
+generator loss: 3.56947
+
+discriminator loss: 0.0416904762387
+generator loss: 9.20641
+
+discriminator loss: -0.0327128469944
+generator loss: 11.1143
+
+discriminator loss: 0.00924471765757
+generator loss: 9.40482
+
+discriminator loss: 0.00488646328449
+generator loss: 6.42806
+
+discriminator loss: 0.228328824043
+generator loss: 6.5437
+
+discriminator loss: 0.0624261945486
+generator loss: 1.776
+
+discriminator loss: 0.016419403255
+generator loss: 12.3084
+
+discriminator loss: 0.918431758881
+generator loss: 7.34515
+
+discriminator loss: 0.0588533431292
+generator loss: 4.73995
+
+discriminator loss: 0.264265835285
+generator loss: 3.05757
+
+discriminator loss: 0.0731814876199
+generator loss: 3.63805
+
+discriminator loss: 0.0923681855202
+generator loss: 7.25021
+
+discriminator loss: 0.30997467041
+generator loss: 1.60715
+
+discriminator loss: 0.0835056826472
+generator loss: 5.09613
+
+discriminator loss: 0.0659307092428
+generator loss: 1.70744
+
+discriminator loss: 0.0354376807809
+generator loss: 9.85863
+
+discriminator loss: 0.108305767179
+generator loss: 0.163471
+
+discriminator loss: 0.176269412041
+generator loss: 3.4869
+
+discriminator loss: 0.0638052597642
+generator loss: 3.03237
+
+discriminator loss: 0.0156207829714
+generator loss: 4.76177
+
+discriminator loss: 0.0864561796188
+generator loss: 6.43569
+
+discriminator loss: 0.248948723078
+generator loss: 4.17488
+
+discriminator loss: 0.350960612297
+generator loss: 8.14629
+
+discriminator loss: 0.131534188986
+generator loss: 3.78759
+
+discriminator loss: 0.028043627739
+generator loss: 4.3355
+
+discriminator loss: 0.0969145298004
+generator loss: 1.46764
+
+discriminator loss: 0.0790032967925
+generator loss: 5.77766
+
+discriminator loss: -0.0015781596303
+generator loss: 8.49569
+
+discriminator loss: 0.0125205665827
+generator loss: 6.05753
+
+discriminator loss: 0.00292071700096
+generator loss: 5.21167
+
+discriminator loss: 0.135247081518
+generator loss: 6.33179
+
+discriminator loss: 0.098671734333
+generator loss: 10.5206
+
+discriminator loss: -0.0420534908772
+generator loss: 6.75807
+
+discriminator loss: -0.0608425140381
+generator loss: 8.47776
+
+discriminator loss: 0.00123663246632
+generator loss: 7.0571
+
+discriminator loss: -0.045628964901
+generator loss: 13.1837
+
+discriminator loss: 0.173450797796
+generator loss: 6.59149
+
+discriminator loss: -0.0882370918989
+generator loss: 12.7702
+
+epoch45 end
+
+discriminator loss: 0.121807955205
+generator loss: 4.403
+
+discriminator loss: 0.0617645196617
+generator loss: 3.61185
+
+discriminator loss: 0.738485813141
+generator loss: 3.36606
+
+discriminator loss: 0.0613547377288
+generator loss: 7.30784
+
+discriminator loss: 0.118078656495
+generator loss: 7.31588
+
+discriminator loss: 0.123728744686
+generator loss: 6.03688
+
+discriminator loss: 0.255040884018
+generator loss: 3.32321
+
+discriminator loss: 0.103801697493
+generator loss: 8.22237
+
+discriminator loss: 0.0221466422081
+generator loss: 8.45083
+
+discriminator loss: 0.012942686677
+generator loss: 8.64043
+
+discriminator loss: -0.00424580276012
+generator loss: 8.99921
+
+discriminator loss: 0.125714913011
+generator loss: 8.30666
+
+discriminator loss: 0.0520491227508
+generator loss: 3.40697
+
+discriminator loss: 0.000721819698811
+generator loss: 9.44885
+
+discriminator loss: -0.00250196456909
+generator loss: 8.06136
+
+discriminator loss: 0.0929641872644
+generator loss: 6.02826
+
+discriminator loss: 0.0707079768181
+generator loss: 4.5485
+
+discriminator loss: 0.105055823922
+generator loss: 5.11151
+
+discriminator loss: 0.0355557203293
+generator loss: 6.68787
+
+discriminator loss: 0.0294289588928
+generator loss: 3.94798
+
+discriminator loss: -0.0433289334178
+generator loss: 10.2524
+
+discriminator loss: 1.51022017002
+generator loss: 7.04512
+
+discriminator loss: 0.106210887432
+generator loss: 4.70985
+
+discriminator loss: 0.0194771140814
+generator loss: 4.9996
+
+discriminator loss: 0.336953938007
+generator loss: 2.51607
+
+discriminator loss: 0.0156009793282
+generator loss: 6.53179
+
+discriminator loss: -0.000923693180084
+generator loss: 7.79968
+
+discriminator loss: 0.135966151953
+generator loss: 6.01594
+
+discriminator loss: 0.151017203927
+generator loss: 6.89977
+
+discriminator loss: 0.0573802143335
+generator loss: 8.43543
+
+discriminator loss: 0.185404881835
+generator loss: 9.33622
+
+discriminator loss: 0.0958891957998
+generator loss: 2.92236
+
+discriminator loss: 0.0615856647491
+generator loss: 4.60298
+
+discriminator loss: 0.224072009325
+generator loss: 6.34074
+
+discriminator loss: 0.441439628601
+generator loss: 4.34598
+
+discriminator loss: 0.393051236868
+generator loss: 4.66155
+
+discriminator loss: -0.0588147863746
+generator loss: 11.3256
+
+discriminator loss: 0.0139348357916
+generator loss: 8.00491
+
+discriminator loss: -0.0330356657505
+generator loss: 8.72283
+
+discriminator loss: 0.0213741511106
+generator loss: 7.81505
+
+discriminator loss: 0.0222927927971
+generator loss: 6.68113
+
+discriminator loss: 0.0192824006081
+generator loss: 11.3022
+
+discriminator loss: 0.00208190083504
+generator loss: 8.86169
+
+discriminator loss: -0.0534949079156
+generator loss: 5.74882
+
+discriminator loss: -0.0414986610413
+generator loss: 10.0833
+
+discriminator loss: 0.479050159454
+generator loss: 11.6941
+
+epoch46 end
+
+discriminator loss: 0.208013415337
+generator loss: 4.13184
+
+discriminator loss: 0.0549673996866
+generator loss: 5.90923
+
+discriminator loss: 0.175727456808
+generator loss: 5.10023
+
+discriminator loss: 0.0256452634931
+generator loss: 7.84378
+
+discriminator loss: 0.127605497837
+generator loss: 7.98605
+
+discriminator loss: 0.00848546624184
+generator loss: 5.50468
+
+discriminator loss: 0.0348083861172
+generator loss: 8.03808
+
+discriminator loss: 0.0305742658675
+generator loss: 5.40842
+
+discriminator loss: 0.0323022976518
+generator loss: 6.97532
+
+discriminator loss: 0.0651393830776
+generator loss: 12.7709
+
+discriminator loss: 0.255993247032
+generator loss: 9.83067
+
+discriminator loss: 0.0481375902891
+generator loss: 8.00192
+
+discriminator loss: 0.150180310011
+generator loss: 5.19592
+
+discriminator loss: 0.101702339947
+generator loss: 8.95186
+
+discriminator loss: -0.0125581249595
+generator loss: 9.48248
+
+discriminator loss: 0.0678552165627
+generator loss: 6.95556
+
+discriminator loss: 0.0547928437591
+generator loss: 4.43688
+
+discriminator loss: 0.0387019366026
+generator loss: 6.33316
+
+discriminator loss: 0.123242661357
+generator loss: 3.01719
+
+discriminator loss: 0.0117984004319
+generator loss: 7.0713
+
+discriminator loss: -0.01500184834
+generator loss: 8.80404
+
+discriminator loss: 0.493260353804
+generator loss: 3.82606
+
+discriminator loss: 0.0702857226133
+generator loss: 2.9767
+
+discriminator loss: 0.0427176021039
+generator loss: 6.77501
+
+discriminator loss: 0.995988070965
+generator loss: 1.40734
+
+discriminator loss: -0.0392272025347
+generator loss: 6.70268
+
+discriminator loss: 0.0344135314226
+generator loss: 6.15055
+
+discriminator loss: 0.28970772028
+generator loss: 9.16391
+
+discriminator loss: 0.132096782327
+generator loss: 6.87775
+
+discriminator loss: 0.453422695398
+generator loss: 2.6911
+
+discriminator loss: 0.184051141143
+generator loss: 3.78341
+
+discriminator loss: 0.458400964737
+generator loss: 3.72784
+
+discriminator loss: 0.496024876833
+generator loss: 7.11339
+
+discriminator loss: -0.00558835268021
+generator loss: 8.46073
+
+discriminator loss: 0.209537059069
+generator loss: 1.46671
+
+discriminator loss: 0.0998011380434
+generator loss: 2.8794
+
+discriminator loss: 0.00268489867449
+generator loss: 7.12409
+
+discriminator loss: 0.00846244394779
+generator loss: 5.42509
+
+discriminator loss: -0.0161498636007
+generator loss: 6.84402
+
+discriminator loss: 0.00742897391319
+generator loss: 8.39004
+
+discriminator loss: 0.0236783772707
+generator loss: 3.61993
+
+discriminator loss: 0.0817230194807
+generator loss: 11.3225
+
+discriminator loss: 0.0754056274891
+generator loss: 9.85561
+
+discriminator loss: 0.0853026807308
+generator loss: 1.95924
+
+discriminator loss: 0.125608742237
+generator loss: 8.78744
+
+discriminator loss: 0.0252446085215
+generator loss: 7.16938
+
+epoch47 end
+
+discriminator loss: 0.0157388448715
+generator loss: 1.16389
+
+discriminator loss: -0.00212833285332
+generator loss: 7.8641
+
+discriminator loss: 0.0559793040156
+generator loss: 0.927508
+
+discriminator loss: 0.0219068452716
+generator loss: 6.6718
+
+discriminator loss: -0.0121152475476
+generator loss: 5.50915
+
+discriminator loss: -0.0101667642593
+generator loss: 8.13322
+
+discriminator loss: 0.00449346005917
+generator loss: 12.1845
+
+discriminator loss: 0.0153376311064
+generator loss: 4.17863
+
+discriminator loss: 0.183644413948
+generator loss: 7.98908
+
+discriminator loss: 0.107268661261
+generator loss: 11.1889
+
+discriminator loss: 0.257288455963
+generator loss: 1.39414
+
+discriminator loss: 0.121232762933
+generator loss: 7.07712
+
+discriminator loss: 0.0877618640661
+generator loss: 6.27724
+
+discriminator loss: 0.206193104386
+generator loss: 12.9516
+
+discriminator loss: -0.0526063218713
+generator loss: 14.5238
+
+discriminator loss: 0.0649136304855
+generator loss: 5.62678
+
+discriminator loss: 0.25595164299
+generator loss: 4.50524
+
+discriminator loss: 0.00659333914518
+generator loss: 6.44377
+
+discriminator loss: 0.093822799623
+generator loss: 2.74017
+
+discriminator loss: 0.0525166727602
+generator loss: 5.48857
+
+discriminator loss: -0.00717165321112
+generator loss: 8.92019
+
+discriminator loss: -0.0936167091131
+generator loss: 9.25483
+
+discriminator loss: 0.256067305803
+generator loss: 4.51034
+
+discriminator loss: 0.0475502535701
+generator loss: 7.53047
+
+discriminator loss: 0.139190912247
+generator loss: 4.80851
+
+discriminator loss: 0.465916782618
+generator loss: 6.30352
+
+discriminator loss: -0.0317820161581
+generator loss: 3.27628
+
+discriminator loss: 0.0213544592261
+generator loss: 4.45498
+
+discriminator loss: 0.0689193382859
+generator loss: 4.72945
+
+discriminator loss: 0.0769537314773
+generator loss: 4.157
+
+discriminator loss: 0.00806608051062
+generator loss: 7.03701
+
+discriminator loss: -0.0207943320274
+generator loss: 8.37628
+
+discriminator loss: 0.0787331685424
+generator loss: 9.39062
+
+discriminator loss: 0.0101393163204
+generator loss: 7.20848
+
+discriminator loss: 0.0569392740726
+generator loss: 4.11423
+
+discriminator loss: 0.034667417407
+generator loss: 6.82918
+
+discriminator loss: 0.257192611694
+generator loss: 10.3445
+
+discriminator loss: 0.127338260412
+generator loss: 5.78494
+
+discriminator loss: 0.163483023643
+generator loss: 6.04342
+
+discriminator loss: 0.0353012010455
+generator loss: 6.37666
+
+discriminator loss: -0.0145343318582
+generator loss: 8.0451
+
+discriminator loss: 0.0154236704111
+generator loss: 6.39779
+
+discriminator loss: -0.0245715081692
+generator loss: 6.86911
+
+discriminator loss: 0.163431957364
+generator loss: 5.78435
+
+discriminator loss: -0.0455328822136
+generator loss: 7.97897
+
+discriminator loss: 0.00907202064991
+generator loss: 11.9696
+
+epoch48 end
+
+discriminator loss: 0.0483108088374
+generator loss: 2.48288
+
+discriminator loss: -0.00567436218262
+generator loss: 7.67778
+
+discriminator loss: 0.0538189634681
+generator loss: 2.86769
+
+discriminator loss: 0.0970404818654
+generator loss: 7.12808
+
+discriminator loss: 0.0660594031215
+generator loss: 7.11066
+
+discriminator loss: -0.0331052392721
+generator loss: 11.0764
+
+discriminator loss: 0.290651798248
+generator loss: 3.99492
+
+discriminator loss: 0.0720498934388
+generator loss: 6.40276
+
+discriminator loss: 0.0620160698891
+generator loss: 2.26262
+
+discriminator loss: -0.00718177109957
+generator loss: 4.23438
+
+discriminator loss: 0.0939377099276
+generator loss: 3.77867
+
+discriminator loss: 0.0413085483015
+generator loss: 7.52286
+
+discriminator loss: 0.265458703041
+generator loss: 6.28146
+
+discriminator loss: 0.0723731443286
+generator loss: 5.4448
+
+discriminator loss: -0.0136576965451
+generator loss: 8.33991
+
+discriminator loss: 0.00526718050241
+generator loss: 4.54648
+
+discriminator loss: -0.0203881859779
+generator loss: 8.17914
+
+discriminator loss: 0.00937351584435
+generator loss: 4.12379
+
+discriminator loss: 0.0597025342286
+generator loss: 10.0888
+
+discriminator loss: 1.492426157
+generator loss: 4.45822
+
+discriminator loss: -0.0451692193747
+generator loss: 8.52071
+
+discriminator loss: 0.0165617316961
+generator loss: 8.35579
+
+discriminator loss: 0.0606842190027
+generator loss: 7.79409
+
+discriminator loss: 0.120486065745
+generator loss: 6.21476
+
+discriminator loss: 0.0506529137492
+generator loss: 0.360344
+
+discriminator loss: 0.115964852273
+generator loss: 8.65761
+
+discriminator loss: 0.00954288244247
+generator loss: 7.15061
+
+discriminator loss: 0.0678810253739
+generator loss: 2.30283
+
+discriminator loss: 0.0893440172076
+generator loss: 4.11102
+
+discriminator loss: -0.0441123843193
+generator loss: 12.7351
+
+discriminator loss: -0.00814510881901
+generator loss: 8.28559
+
+discriminator loss: 0.0508579239249
+generator loss: 9.44864
+
+discriminator loss: 0.0444844663143
+generator loss: 7.63151
+
+discriminator loss: 0.00492453575134
+generator loss: 6.82561
+
+discriminator loss: 0.0642349869013
+generator loss: 8.71741
+
+discriminator loss: 0.0383287519217
+generator loss: 6.65065
+
+discriminator loss: 0.0638681650162
+generator loss: 3.7611
+
+discriminator loss: 0.164571389556
+generator loss: 4.38161
+
+discriminator loss: 0.0917609035969
+generator loss: 5.60814
+
+discriminator loss: -0.0121605545282
+generator loss: 8.99509
+
+discriminator loss: 0.180665180087
+generator loss: 7.34598
+
+discriminator loss: 0.107810474932
+generator loss: 8.76831
+
+discriminator loss: 0.269155591726
+generator loss: 5.93173
+
+discriminator loss: 0.178775370121
+generator loss: 2.96351
+
+discriminator loss: -0.0111552774906
+generator loss: 9.21161
+
+discriminator loss: 0.00349982827902
+generator loss: 9.80665
+
+epoch49 end
+
